@@ -1,0 +1,70 @@
+{
+ "noms": "params",
+"Indicators": [
+ {
+ "id": "POPTO2004",
+"label": "Total Population",
+"units": "inhabitants",
+"year": 2004 
+},
+{
+ "id": "NBLOG2004",
+"label": "Number of househods",
+"units": "households",
+"year": 2004 
+},
+{
+ "id": "IMMIG9404",
+"label": "Number of immigrants",
+"units": "inhabitants",
+"year": 2004 
+},
+{
+ "id": "EMIG9404",
+"label": "Number of emigrants",
+"units": "inhabitants",
+"year": 2004 
+} 
+],
+"Accessibility": [
+ {
+ "id": "ACC_0.005",
+"label": "0.5 %" 
+},
+{
+ "id": "ACC_0.01",
+"label": "1 %" 
+},
+{
+ "id": "ACC_0.05",
+"label": "5 %" 
+} 
+],
+"Mode": [
+ {
+ "id": "AsTheCrowFlies",
+"label": "Euclidean Distance",
+"order":      1,
+"potentials": [
+ [
+ {
+ "id": "POT_0",
+"label": "0 meters" 
+},
+{
+ "id": "POT_10000",
+"label": "10000 meters" 
+},
+{
+ "id": "POT_20000",
+"label": "20000 meters" 
+},
+{
+ "id": "POT_50000",
+"label": "50000 meters" 
+} 
+] 
+] 
+} 
+] 
+}
