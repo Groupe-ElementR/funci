@@ -1,0 +1,88 @@
+{
+ "noms": "params",
+"Indicators": [
+ {
+ "id": "P09_POP",
+"label": "Total Population",
+"units": "inhabitants",
+"year": 2011 
+},
+{
+ "id": "P09_POP0014",
+"label": "0-14 years old population",
+"units": "inhabitants",
+"year": 2011 
+},
+{
+ "id": "P09_POP1529",
+"label": "15-29 years old population",
+"units": "inhabitants",
+"year": 2011 
+},
+{
+ "id": "P09_POP3044",
+"label": "30-34 years old population",
+"units": "inhabitants",
+"year": 2011 
+},
+{
+ "id": "P09_POP4559",
+"label": "45-59 years old population",
+"units": "inhabitants",
+"year": 2011 
+},
+{
+ "id": "P09_POP6074",
+"label": "60-74 years old population",
+"units": "inhabitants",
+"year": 2011 
+},
+{
+ "id": "P09_POP75P",
+"label": "75 and more population",
+"units": "inhabitants",
+"year": 2011 
+} 
+],
+"Accessibility": [
+ {
+ "id": "ACC_0.02",
+"label": "2 %" 
+},
+{
+ "id": "ACC_0.1",
+"label": "10 %" 
+},
+{
+ "id": "ACC_0.5",
+"label": "50 %" 
+} 
+],
+"Mode": [
+ {
+ "id": "AsTheCrowFlies",
+"label": "Euclidean Distance",
+"order":      1,
+"potentials": [
+ [
+ {
+ "id": "POT_0",
+"label": "0 meters" 
+},
+{
+ "id": "POT_2000",
+"label": "2000 meters" 
+},
+{
+ "id": "POT_5000",
+"label": "5000 meters" 
+},
+{
+ "id": "POT_10000",
+"label": "10000 meters" 
+} 
+] 
+] 
+} 
+] 
+}

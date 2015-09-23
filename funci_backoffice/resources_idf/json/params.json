@@ -1,0 +1,127 @@
+{
+ "noms": "params",
+"Indicators": [
+ {
+ "id": "population",
+"label": "Total Population",
+"units": "inhabitants",
+"year": 2011 
+},
+{
+ "id": "agriculteurs",
+"label": "Farmers",
+"units": "15-64 years old occupied active inhabitants",
+"year": 2011 
+},
+{
+ "id": "artisans",
+"label": "Artisans",
+"units": "15-64 years old occupied active inhabitants",
+"year": 2011 
+},
+{
+ "id": "cadres",
+"label": "Managers",
+"units": "15-64 years old occupied active inhabitants",
+"year": 2011 
+},
+{
+ "id": "intermediaires",
+"label": "Intermediate Occupations",
+"units": "15-64 years old occupied active inhabitants",
+"year": 2011 
+},
+{
+ "id": "employe",
+"label": "Employees",
+"units": "15-64 years old occupied active inhabitants",
+"year": 2011 
+},
+{
+ "id": "ouvrier",
+"label": "Labourers",
+"units": "15-64 years old occupied active inhabitants",
+"year": 2011 
+},
+{
+ "id": "total",
+"label": "Occupied Active Population",
+"units": "15-64 years old occupied active inhabitants",
+"year": 2011 
+} 
+],
+"Accessibility": [
+ {
+ "id": "ACC_0.005",
+"label": "0.5 %" 
+},
+{
+ "id": "ACC_0.01",
+"label": "1 %" 
+},
+{
+ "id": "ACC_0.05",
+"label": "5 %" 
+} 
+],
+"Mode": [
+ {
+ "id": "AsTheCrowFlies",
+"label": "Euclidean Distance",
+"order":      1,
+"potentials": [
+ [
+ {
+ "id": "POT_0",
+"label": "0 meters" 
+},
+{
+ "id": "POT_2500",
+"label": "2500 meters" 
+},
+{
+ "id": "POT_5000",
+"label": "5000 meters" 
+},
+{
+ "id": "POT_7500",
+"label": "7500 meters" 
+},
+{
+ "id": "POT_10000",
+"label": "10000 meters" 
+} 
+] 
+] 
+},
+{
+ "id": "AsTheCowRolls",
+"label": "Car Time",
+"order":      2,
+"potentials": [
+ [
+ {
+ "id": "POT_0",
+"label": "0 minutes" 
+},
+{
+ "id": "POT_5",
+"label": "5 minutes" 
+},
+{
+ "id": "POT_10",
+"label": "10 minutes" 
+},
+{
+ "id": "POT_15",
+"label": "15 minutes" 
+},
+{
+ "id": "POT_20",
+"label": "20 minutes" 
+} 
+] 
+] 
+} 
+] 
+}

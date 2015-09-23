@@ -1,0 +1,47 @@
+[
+ {
+ "from":      0,
+"to":      0,
+"color": "#F4BDC0" 
+},
+{
+ "from":      0,
+"to":      0,
+"color": "#ECA7AB" 
+},
+{
+ "from":      0,
+"to":      0,
+"color": "#E59296" 
+},
+{
+ "from":      0,
+"to":      4,
+"color": "#DE7C81" 
+},
+{
+ "from":      4,
+"to":      4,
+"color": "#D56268" 
+},
+{
+ "from":      4,
+"to":      7,
+"color": "#CB464C" 
+},
+{
+ "from":      7,
+"to":      8,
+"color": "#BA2C33" 
+},
+{
+ "from":      8,
+"to":     12,
+"color": "#8F1E21" 
+},
+{
+ "from":     12,
+"to":    198,
+"color": "#64110F" 
+} 
+]

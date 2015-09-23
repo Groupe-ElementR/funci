@@ -1,0 +1,172 @@
+[
+ {
+ "code": "97201",
+"nom": "L AJOUPA-BOUILLON",
+"value": 3148.3 
+},
+{
+ "code": "97202",
+"nom": "LES ANSES-D ARLET",
+"value": 1939.8 
+},
+{
+ "code": "97203",
+"nom": "BASSE-POINTE",
+"value": 2463.8 
+},
+{
+ "code": "97204",
+"nom": "LE CARBET",
+"value": 4408.8 
+},
+{
+ "code": "97205",
+"nom": "CASE-PILOTE",
+"value": 9507.5 
+},
+{
+ "code": "97206",
+"nom": "LE DIAMANT",
+"value": 2627.3 
+},
+{
+ "code": "97207",
+"nom": "DUCOS",
+"value": 8146.7 
+},
+{
+ "code": "97208",
+"nom": "FONDS-SAINT-DENIS",
+"value": 7822.3 
+},
+{
+ "code": "97209",
+"nom": "FORT-DE-FRANCE",
+"value":  12434 
+},
+{
+ "code": "97210",
+"nom": "LE FRANCOIS",
+"value": 5886.4 
+},
+{
+ "code": "97211",
+"nom": "GRAND RIVIERE",
+"value": 1594.9 
+},
+{
+ "code": "97212",
+"nom": "GROS-MORNE",
+"value":  10904 
+},
+{
+ "code": "97213",
+"nom": "LE LAMENTIN",
+"value":  11671 
+},
+{
+ "code": "97214",
+"nom": "LE LORRAIN",
+"value": 4108.1 
+},
+{
+ "code": "97215",
+"nom": "MACOUBA",
+"value": 1851.7 
+},
+{
+ "code": "97216",
+"nom": "LE MARIGOT",
+"value": 5153.8 
+},
+{
+ "code": "97217",
+"nom": "LE MARIN",
+"value": 3219.4 
+},
+{
+ "code": "97218",
+"nom": "LE MORNE-ROUGE",
+"value": 4656.9 
+},
+{
+ "code": "97219",
+"nom": "LE PRECHEUR",
+"value":   1551 
+},
+{
+ "code": "97220",
+"nom": "RIVIERE-PILOTE",
+"value": 4750.2 
+},
+{
+ "code": "97221",
+"nom": "RIVIERE-SALEE",
+"value": 5490.4 
+},
+{
+ "code": "97222",
+"nom": "LE ROBERT",
+"value": 7041.9 
+},
+{
+ "code": "97223",
+"nom": "SAINT-ESPRIT",
+"value": 6353.2 
+},
+{
+ "code": "97224",
+"nom": "SAINT-JOSEPH",
+"value":  13235 
+},
+{
+ "code": "97225",
+"nom": "SAINT-PIERRE",
+"value": 2603.9 
+},
+{
+ "code": "97226",
+"nom": "SAINTE-ANNE",
+"value": 1911.3 
+},
+{
+ "code": "97227",
+"nom": "SAINTE-LUCE",
+"value":   3998 
+},
+{
+ "code": "97228",
+"nom": "SAINTE-MARIE",
+"value": 5486.7 
+},
+{
+ "code": "97229",
+"nom": "SCHOELCHER",
+"value":  11106 
+},
+{
+ "code": "97230",
+"nom": "LA TRINITE",
+"value": 4719.6 
+},
+{
+ "code": "97231",
+"nom": "LES TROIS-ILETS",
+"value": 4624.8 
+},
+{
+ "code": "97232",
+"nom": "LE VAUCLIN",
+"value": 4106.2 
+},
+{
+ "code": "97233",
+"nom": "LE MORNE-VERT",
+"value": 7444.4 
+},
+{
+ "code": "97234",
+"nom": "BELLEFONTAINE",
+"value": 7248.2 
+} 
+]

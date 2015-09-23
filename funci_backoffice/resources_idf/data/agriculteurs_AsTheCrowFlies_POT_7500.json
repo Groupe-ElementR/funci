@@ -1,0 +1,6502 @@
+[
+ {
+ "code": "75101",
+"nom": "Paris 1er Arrondissement",
+"value": 1303.6 
+},
+{
+ "code": "75102",
+"nom": "Paris 2e  Arrondissement",
+"value": 1270.4 
+},
+{
+ "code": "75103",
+"nom": "Paris 3e  Arrondissement",
+"value": 1184.9 
+},
+{
+ "code": "75104",
+"nom": "Paris 4e  Arrondissement",
+"value": 1178.3 
+},
+{
+ "code": "75105",
+"nom": "Paris 5e  Arrondissement",
+"value": 1171.9 
+},
+{
+ "code": "75106",
+"nom": "Paris 6e  Arrondissement",
+"value": 1272.4 
+},
+{
+ "code": "75107",
+"nom": "Paris 7e  Arrondissement",
+"value": 1353.5 
+},
+{
+ "code": "75108",
+"nom": "Paris 8e  Arrondissement",
+"value": 1366.4 
+},
+{
+ "code": "75109",
+"nom": "Paris 9e  Arrondissement",
+"value": 1284.6 
+},
+{
+ "code": "75110",
+"nom": "Paris 10e  Arrondissement",
+"value": 1160.3 
+},
+{
+ "code": "75111",
+"nom": "Paris 11e  Arrondissement",
+"value": 1051.8 
+},
+{
+ "code": "75112",
+"nom": "Paris 12e  Arrondissement",
+"value": 683.54 
+},
+{
+ "code": "75113",
+"nom": "Paris 13e  Arrondissement",
+"value": 978.85 
+},
+{
+ "code": "75114",
+"nom": "Paris 14e  Arrondissement",
+"value": 1124.6 
+},
+{
+ "code": "75115",
+"nom": "Paris 15e  Arrondissement",
+"value": 1262.2 
+},
+{
+ "code": "75116",
+"nom": "Paris 16e  Arrondissement",
+"value":   1286 
+},
+{
+ "code": "75117",
+"nom": "Paris 17e  Arrondissement",
+"value": 1313.3 
+},
+{
+ "code": "75118",
+"nom": "Paris 18e  Arrondissement",
+"value": 1146.5 
+},
+{
+ "code": "75119",
+"nom": "Paris 19e  Arrondissement",
+"value": 950.38 
+},
+{
+ "code": "75120",
+"nom": "Paris 20e  Arrondissement",
+"value":  893.5 
+},
+{
+ "code": "77001",
+"nom": "Acheres-la-Foret",
+"value": 82.124 
+},
+{
+ "code": "77002",
+"nom": "Amillis",
+"value": 105.35 
+},
+{
+ "code": "77003",
+"nom": "Amponville",
+"value": 111.46 
+},
+{
+ "code": "77004",
+"nom": "Andrezel",
+"value": 67.458 
+},
+{
+ "code": "77005",
+"nom": "Annet-sur-Marne",
+"value": 73.846 
+},
+{
+ "code": "77006",
+"nom": "Arbonne-la-Foret",
+"value": 76.763 
+},
+{
+ "code": "77007",
+"nom": "Argentieres",
+"value": 98.287 
+},
+{
+ "code": "77008",
+"nom": "Armentieres-en-Brie",
+"value": 93.842 
+},
+{
+ "code": "77009",
+"nom": "Arville",
+"value": 109.75 
+},
+{
+ "code": "77010",
+"nom": "Aubepierre-Ozouer-le-Repos",
+"value": 77.295 
+},
+{
+ "code": "77011",
+"nom": "Aufferville",
+"value": 128.84 
+},
+{
+ "code": "77012",
+"nom": "Augers-en-Brie",
+"value": 100.61 
+},
+{
+ "code": "77013",
+"nom": "Aulnoy",
+"value": 115.02 
+},
+{
+ "code": "77014",
+"nom": "Avon",
+"value": 34.591 
+},
+{
+ "code": "77015",
+"nom": "Baby",
+"value": 33.358 
+},
+{
+ "code": "77016",
+"nom": "Bagneaux-sur-Loing",
+"value": 94.073 
+},
+{
+ "code": "77018",
+"nom": "Bailly-Romainvilliers",
+"value": 81.878 
+},
+{
+ "code": "77019",
+"nom": "Balloy",
+"value": 68.796 
+},
+{
+ "code": "77020",
+"nom": "Bannost-Villegagnon",
+"value": 126.35 
+},
+{
+ "code": "77021",
+"nom": "Barbey",
+"value": 57.294 
+},
+{
+ "code": "77022",
+"nom": "Barbizon",
+"value": 82.007 
+},
+{
+ "code": "77023",
+"nom": "Barcy",
+"value": 68.377 
+},
+{
+ "code": "77024",
+"nom": "Bassevelle",
+"value": 74.249 
+},
+{
+ "code": "77025",
+"nom": "Bazoches-les-Bray",
+"value": 66.771 
+},
+{
+ "code": "77026",
+"nom": "Beauchery-Saint-Martin",
+"value":  72.76 
+},
+{
+ "code": "77027",
+"nom": "Beaumont-du-Gatinais",
+"value": 42.052 
+},
+{
+ "code": "77028",
+"nom": "Beautheil",
+"value": 103.66 
+},
+{
+ "code": "77029",
+"nom": "Beauvoir",
+"value": 89.303 
+},
+{
+ "code": "77030",
+"nom": "Bellot",
+"value": 112.04 
+},
+{
+ "code": "77031",
+"nom": "Bernay-Vilbert",
+"value": 125.71 
+},
+{
+ "code": "77032",
+"nom": "Beton-Bazoches",
+"value": 143.41 
+},
+{
+ "code": "77033",
+"nom": "Bezalles",
+"value": 132.77 
+},
+{
+ "code": "77034",
+"nom": "Blandy",
+"value": 49.984 
+},
+{
+ "code": "77035",
+"nom": "Blennes",
+"value": 47.882 
+},
+{
+ "code": "77036",
+"nom": "Boisdon",
+"value": 134.96 
+},
+{
+ "code": "77037",
+"nom": "Bois-le-Roi",
+"value": 67.322 
+},
+{
+ "code": "77038",
+"nom": "Boissettes",
+"value": 88.217 
+},
+{
+ "code": "77039",
+"nom": "Boissise-la-Bertrand",
+"value": 85.257 
+},
+{
+ "code": "77040",
+"nom": "Boissise-le-Roi",
+"value": 89.954 
+},
+{
+ "code": "77041",
+"nom": "Boissy-aux-Cailles",
+"value": 98.947 
+},
+{
+ "code": "77042",
+"nom": "Boissy-le-Chatel",
+"value": 98.054 
+},
+{
+ "code": "77043",
+"nom": "Boitron",
+"value": 92.489 
+},
+{
+ "code": "77044",
+"nom": "Bombon",
+"value": 43.412 
+},
+{
+ "code": "77045",
+"nom": "Bougligny",
+"value": 110.93 
+},
+{
+ "code": "77046",
+"nom": "Boulancourt",
+"value": 60.786 
+},
+{
+ "code": "77047",
+"nom": "Bouleurs",
+"value": 109.46 
+},
+{
+ "code": "77048",
+"nom": "Bourron-Marlotte",
+"value": 48.897 
+},
+{
+ "code": "77049",
+"nom": "Boutigny",
+"value": 107.22 
+},
+{
+ "code": "77050",
+"nom": "Bransles",
+"value": 43.851 
+},
+{
+ "code": "77051",
+"nom": "Bray-sur-Seine",
+"value": 69.894 
+},
+{
+ "code": "77052",
+"nom": "Breau",
+"value": 41.824 
+},
+{
+ "code": "77053",
+"nom": "Brie-Comte-Robert",
+"value": 121.11 
+},
+{
+ "code": "77054",
+"nom": "La Brosse-Montceaux",
+"value": 62.694 
+},
+{
+ "code": "77055",
+"nom": "Brou-sur-Chantereine",
+"value": 82.532 
+},
+{
+ "code": "77056",
+"nom": "Burcy",
+"value": 100.55 
+},
+{
+ "code": "77057",
+"nom": "Bussieres",
+"value": 87.829 
+},
+{
+ "code": "77058",
+"nom": "Bussy-Saint-Georges",
+"value": 68.448 
+},
+{
+ "code": "77059",
+"nom": "Bussy-Saint-Martin",
+"value": 75.821 
+},
+{
+ "code": "77060",
+"nom": "Buthiers",
+"value": 77.154 
+},
+{
+ "code": "77061",
+"nom": "Cannes-Ecluse",
+"value": 78.553 
+},
+{
+ "code": "77062",
+"nom": "Carnetin",
+"value": 72.252 
+},
+{
+ "code": "77063",
+"nom": "La Celle-sur-Morin",
+"value": 119.15 
+},
+{
+ "code": "77065",
+"nom": "Cely",
+"value": 92.842 
+},
+{
+ "code": "77066",
+"nom": "Cerneux",
+"value": 109.48 
+},
+{
+ "code": "77067",
+"nom": "Cesson",
+"value": 78.372 
+},
+{
+ "code": "77068",
+"nom": "Cessoy-en-Montois",
+"value": 126.19 
+},
+{
+ "code": "77069",
+"nom": "Chailly-en-Biere",
+"value": 86.088 
+},
+{
+ "code": "77070",
+"nom": "Chailly-en-Brie",
+"value": 95.337 
+},
+{
+ "code": "77071",
+"nom": "Chaintreaux",
+"value": 78.148 
+},
+{
+ "code": "77072",
+"nom": "Chalautre-la-Grande",
+"value": 69.834 
+},
+{
+ "code": "77073",
+"nom": "Chalautre-la-Petite",
+"value": 119.95 
+},
+{
+ "code": "77075",
+"nom": "Chalifert",
+"value": 79.491 
+},
+{
+ "code": "77076",
+"nom": "Chalmaison",
+"value": 113.71 
+},
+{
+ "code": "77077",
+"nom": "Chambry",
+"value": 74.866 
+},
+{
+ "code": "77078",
+"nom": "Chamigny",
+"value": 102.01 
+},
+{
+ "code": "77079",
+"nom": "Champagne-sur-Seine",
+"value": 42.117 
+},
+{
+ "code": "77080",
+"nom": "Champcenest",
+"value": 131.99 
+},
+{
+ "code": "77081",
+"nom": "Champdeuil",
+"value": 90.863 
+},
+{
+ "code": "77082",
+"nom": "Champeaux",
+"value": 55.204 
+},
+{
+ "code": "77083",
+"nom": "Champs-sur-Marne",
+"value": 129.28 
+},
+{
+ "code": "77084",
+"nom": "Changis-sur-Marne",
+"value": 95.747 
+},
+{
+ "code": "77085",
+"nom": "Chanteloup-en-Brie",
+"value": 73.485 
+},
+{
+ "code": "77086",
+"nom": "La Chapelle-Gauthier",
+"value": 37.695 
+},
+{
+ "code": "77087",
+"nom": "La Chapelle-Iger",
+"value": 109.01 
+},
+{
+ "code": "77088",
+"nom": "La Chapelle-la-Reine",
+"value":  98.98 
+},
+{
+ "code": "77089",
+"nom": "La Chapelle-Rablais",
+"value": 60.924 
+},
+{
+ "code": "77090",
+"nom": "La Chapelle-Saint-Sulpice",
+"value": 116.71 
+},
+{
+ "code": "77091",
+"nom": "Les Chapelles-Bourbon",
+"value":  97.78 
+},
+{
+ "code": "77093",
+"nom": "La Chapelle-Moutils",
+"value": 95.616 
+},
+{
+ "code": "77094",
+"nom": "Charmentray",
+"value": 91.012 
+},
+{
+ "code": "77095",
+"nom": "Charny",
+"value": 90.563 
+},
+{
+ "code": "77096",
+"nom": "Chartrettes",
+"value":  65.47 
+},
+{
+ "code": "77097",
+"nom": "Chartronges",
+"value": 133.33 
+},
+{
+ "code": "77098",
+"nom": "Chateaubleau",
+"value": 99.514 
+},
+{
+ "code": "77099",
+"nom": "Chateau-Landon",
+"value": 63.391 
+},
+{
+ "code": "77100",
+"nom": "Le Chatelet-en-Brie",
+"value": 42.278 
+},
+{
+ "code": "77101",
+"nom": "Chatenay-sur-Seine",
+"value": 78.947 
+},
+{
+ "code": "77102",
+"nom": "Chatenoy",
+"value": 124.55 
+},
+{
+ "code": "77103",
+"nom": "Chatillon-la-Borde",
+"value": 40.582 
+},
+{
+ "code": "77104",
+"nom": "Chatres",
+"value": 104.87 
+},
+{
+ "code": "77106",
+"nom": "Chauffry",
+"value": 92.694 
+},
+{
+ "code": "77107",
+"nom": "Chaumes-en-Brie",
+"value": 102.87 
+},
+{
+ "code": "77108",
+"nom": "Chelles",
+"value": 110.62 
+},
+{
+ "code": "77109",
+"nom": "Chenoise",
+"value": 109.93 
+},
+{
+ "code": "77110",
+"nom": "Chenou",
+"value": 95.235 
+},
+{
+ "code": "77111",
+"nom": "Chessy",
+"value": 77.721 
+},
+{
+ "code": "77112",
+"nom": "Chevrainvilliers",
+"value": 122.39 
+},
+{
+ "code": "77113",
+"nom": "Chevru",
+"value":  120.1 
+},
+{
+ "code": "77114",
+"nom": "Chevry-Cossigny",
+"value": 96.629 
+},
+{
+ "code": "77115",
+"nom": "Chevry-en-Sereine",
+"value": 80.804 
+},
+{
+ "code": "77116",
+"nom": "Choisy-en-Brie",
+"value": 109.36 
+},
+{
+ "code": "77117",
+"nom": "Citry",
+"value": 62.128 
+},
+{
+ "code": "77118",
+"nom": "Claye-Souilly",
+"value": 70.829 
+},
+{
+ "code": "77119",
+"nom": "Clos-Fontaine",
+"value": 87.987 
+},
+{
+ "code": "77120",
+"nom": "Cocherel",
+"value":  109.1 
+},
+{
+ "code": "77121",
+"nom": "Collegien",
+"value": 72.401 
+},
+{
+ "code": "77122",
+"nom": "Combs-la-Ville",
+"value":  109.8 
+},
+{
+ "code": "77123",
+"nom": "Compans",
+"value": 69.205 
+},
+{
+ "code": "77124",
+"nom": "Conches-sur-Gondoire",
+"value": 72.657 
+},
+{
+ "code": "77125",
+"nom": "Conde-Sainte-Libiaire",
+"value": 94.387 
+},
+{
+ "code": "77126",
+"nom": "Congis-sur-Therouanne",
+"value": 80.602 
+},
+{
+ "code": "77127",
+"nom": "Coubert",
+"value": 105.55 
+},
+{
+ "code": "77128",
+"nom": "Couilly-Pont-aux-Dames",
+"value": 99.477 
+},
+{
+ "code": "77129",
+"nom": "Coulombs-en-Valois",
+"value":  72.86 
+},
+{
+ "code": "77130",
+"nom": "Coulommes",
+"value":  112.9 
+},
+{
+ "code": "77131",
+"nom": "Coulommiers",
+"value": 104.37 
+},
+{
+ "code": "77132",
+"nom": "Coupvray",
+"value": 82.956 
+},
+{
+ "code": "77133",
+"nom": "Courcelles-en-Bassee",
+"value": 70.145 
+},
+{
+ "code": "77134",
+"nom": "Courchamp",
+"value": 118.54 
+},
+{
+ "code": "77135",
+"nom": "Courpalay",
+"value": 103.26 
+},
+{
+ "code": "77136",
+"nom": "Courquetaine",
+"value": 101.04 
+},
+{
+ "code": "77137",
+"nom": "Courtacon",
+"value": 138.94 
+},
+{
+ "code": "77138",
+"nom": "Courtomer",
+"value": 107.85 
+},
+{
+ "code": "77139",
+"nom": "Courtry",
+"value": 83.094 
+},
+{
+ "code": "77140",
+"nom": "Coutencon",
+"value": 72.002 
+},
+{
+ "code": "77141",
+"nom": "Coutevroult",
+"value": 89.524 
+},
+{
+ "code": "77142",
+"nom": "Crecy-la-Chapelle",
+"value": 112.19 
+},
+{
+ "code": "77143",
+"nom": "Cregy-les-Meaux",
+"value": 82.615 
+},
+{
+ "code": "77144",
+"nom": "Crevecoeur-en-Brie",
+"value": 119.31 
+},
+{
+ "code": "77145",
+"nom": "Crisenoy",
+"value": 78.727 
+},
+{
+ "code": "77146",
+"nom": "Croissy-Beaubourg",
+"value": 77.756 
+},
+{
+ "code": "77147",
+"nom": "La Croix-en-Brie",
+"value": 95.361 
+},
+{
+ "code": "77148",
+"nom": "Crouy-sur-Ourcq",
+"value": 65.922 
+},
+{
+ "code": "77149",
+"nom": "Cucharmoy",
+"value": 105.67 
+},
+{
+ "code": "77150",
+"nom": "Cuisy",
+"value": 76.686 
+},
+{
+ "code": "77151",
+"nom": "Dagny",
+"value": 117.28 
+},
+{
+ "code": "77152",
+"nom": "Dammarie-les-Lys",
+"value": 88.959 
+},
+{
+ "code": "77153",
+"nom": "Dammartin-en-Goele",
+"value": 62.004 
+},
+{
+ "code": "77154",
+"nom": "Dammartin-sur-Tigeaux",
+"value": 98.928 
+},
+{
+ "code": "77155",
+"nom": "Dampmart",
+"value": 74.814 
+},
+{
+ "code": "77156",
+"nom": "Darvault",
+"value": 76.669 
+},
+{
+ "code": "77157",
+"nom": "Dhuisy",
+"value": 87.301 
+},
+{
+ "code": "77158",
+"nom": "Diant",
+"value": 64.256 
+},
+{
+ "code": "77159",
+"nom": "Donnemarie-Dontilly",
+"value": 115.79 
+},
+{
+ "code": "77161",
+"nom": "Dormelles",
+"value": 108.45 
+},
+{
+ "code": "77162",
+"nom": "Doue",
+"value": 106.78 
+},
+{
+ "code": "77163",
+"nom": "Douy-la-Ramee",
+"value": 38.072 
+},
+{
+ "code": "77164",
+"nom": "Echouboulains",
+"value": 52.309 
+},
+{
+ "code": "77165",
+"nom": "Les Ecrennes",
+"value": 39.437 
+},
+{
+ "code": "77166",
+"nom": "Ecuelles",
+"value": 72.918 
+},
+{
+ "code": "77167",
+"nom": "Egligny",
+"value": 98.484 
+},
+{
+ "code": "77168",
+"nom": "Egreville",
+"value": 72.616 
+},
+{
+ "code": "77169",
+"nom": "Emerainville",
+"value": 113.27 
+},
+{
+ "code": "77170",
+"nom": "Episy",
+"value": 69.529 
+},
+{
+ "code": "77171",
+"nom": "Esbly",
+"value": 89.005 
+},
+{
+ "code": "77172",
+"nom": "Esmans",
+"value": 89.578 
+},
+{
+ "code": "77173",
+"nom": "Etrepilly",
+"value": 56.027 
+},
+{
+ "code": "77174",
+"nom": "Everly",
+"value": 94.706 
+},
+{
+ "code": "77175",
+"nom": "Evry-Gregy-sur-Yerre",
+"value": 105.92 
+},
+{
+ "code": "77176",
+"nom": "Faremoutiers",
+"value": 124.44 
+},
+{
+ "code": "77177",
+"nom": "Favieres",
+"value": 71.215 
+},
+{
+ "code": "77178",
+"nom": "Fay-les-Nemours",
+"value": 111.77 
+},
+{
+ "code": "77179",
+"nom": "Fericy",
+"value": 40.617 
+},
+{
+ "code": "77180",
+"nom": "Ferolles-Attilly",
+"value": 102.08 
+},
+{
+ "code": "77181",
+"nom": "Ferrieres-en-Brie",
+"value": 66.328 
+},
+{
+ "code": "77182",
+"nom": "La Ferte-Gaucher",
+"value":    120 
+},
+{
+ "code": "77183",
+"nom": "La Ferte-sous-Jouarre",
+"value": 110.67 
+},
+{
+ "code": "77184",
+"nom": "Flagy",
+"value": 110.58 
+},
+{
+ "code": "77185",
+"nom": "Fleury-en-Biere",
+"value": 87.531 
+},
+{
+ "code": "77186",
+"nom": "Fontainebleau",
+"value": 44.304 
+},
+{
+ "code": "77187",
+"nom": "Fontaine-Fourches",
+"value": 32.405 
+},
+{
+ "code": "77188",
+"nom": "Fontaine-le-Port",
+"value": 46.796 
+},
+{
+ "code": "77190",
+"nom": "Fontains",
+"value": 78.948 
+},
+{
+ "code": "77191",
+"nom": "Fontenailles",
+"value": 50.157 
+},
+{
+ "code": "77192",
+"nom": "Fontenay-Tresigny",
+"value": 118.32 
+},
+{
+ "code": "77193",
+"nom": "Forfry",
+"value": 43.932 
+},
+{
+ "code": "77194",
+"nom": "Forges",
+"value": 66.637 
+},
+{
+ "code": "77195",
+"nom": "Fouju",
+"value": 65.997 
+},
+{
+ "code": "77196",
+"nom": "Fresnes-sur-Marne",
+"value": 83.532 
+},
+{
+ "code": "77197",
+"nom": "Fretoy",
+"value": 132.49 
+},
+{
+ "code": "77198",
+"nom": "Fromont",
+"value": 96.088 
+},
+{
+ "code": "77199",
+"nom": "Fublaines",
+"value": 94.908 
+},
+{
+ "code": "77200",
+"nom": "Garentreville",
+"value": 116.33 
+},
+{
+ "code": "77201",
+"nom": "Gastins",
+"value": 94.609 
+},
+{
+ "code": "77202",
+"nom": "La Genevraye",
+"value": 63.499 
+},
+{
+ "code": "77203",
+"nom": "Germigny-l'Eveque",
+"value": 83.169 
+},
+{
+ "code": "77204",
+"nom": "Germigny-sous-Coulombs",
+"value": 74.681 
+},
+{
+ "code": "77205",
+"nom": "Gesvres-le-Chapitre",
+"value": 58.452 
+},
+{
+ "code": "77206",
+"nom": "Giremoutiers",
+"value": 119.02 
+},
+{
+ "code": "77207",
+"nom": "Gironville",
+"value": 84.056 
+},
+{
+ "code": "77208",
+"nom": "Gouaix",
+"value": 96.215 
+},
+{
+ "code": "77209",
+"nom": "Gouvernes",
+"value": 74.319 
+},
+{
+ "code": "77210",
+"nom": "La Grande-Paroisse",
+"value": 78.327 
+},
+{
+ "code": "77211",
+"nom": "Grandpuits-Bailly-Carrois",
+"value": 73.867 
+},
+{
+ "code": "77212",
+"nom": "Gravon",
+"value": 60.325 
+},
+{
+ "code": "77214",
+"nom": "Gressy",
+"value": 69.178 
+},
+{
+ "code": "77215",
+"nom": "Gretz-Armainvilliers",
+"value": 74.462 
+},
+{
+ "code": "77216",
+"nom": "Grez-sur-Loing",
+"value":  68.64 
+},
+{
+ "code": "77217",
+"nom": "Grisy-Suisnes",
+"value": 109.77 
+},
+{
+ "code": "77218",
+"nom": "Grisy-sur-Seine",
+"value": 66.593 
+},
+{
+ "code": "77219",
+"nom": "Guerard",
+"value": 112.21 
+},
+{
+ "code": "77220",
+"nom": "Guercheville",
+"value": 116.39 
+},
+{
+ "code": "77221",
+"nom": "Guermantes",
+"value": 72.197 
+},
+{
+ "code": "77222",
+"nom": "Guignes",
+"value": 81.385 
+},
+{
+ "code": "77223",
+"nom": "Gurcy-le-Chatel",
+"value": 107.79 
+},
+{
+ "code": "77224",
+"nom": "Hautefeuille",
+"value": 128.67 
+},
+{
+ "code": "77225",
+"nom": "La Haute-Maison",
+"value": 117.28 
+},
+{
+ "code": "77226",
+"nom": "Hericy",
+"value": 39.379 
+},
+{
+ "code": "77227",
+"nom": "Herme",
+"value":  93.72 
+},
+{
+ "code": "77228",
+"nom": "Hondevilliers",
+"value":  76.59 
+},
+{
+ "code": "77229",
+"nom": "La Houssaye-en-Brie",
+"value": 101.42 
+},
+{
+ "code": "77230",
+"nom": "Ichy",
+"value": 107.99 
+},
+{
+ "code": "77231",
+"nom": "Isles-les-Meldeuses",
+"value": 91.832 
+},
+{
+ "code": "77232",
+"nom": "Isles-les-Villenoy",
+"value": 93.917 
+},
+{
+ "code": "77233",
+"nom": "Iverny",
+"value": 86.527 
+},
+{
+ "code": "77234",
+"nom": "Jablines",
+"value": 79.341 
+},
+{
+ "code": "77235",
+"nom": "Jaignes",
+"value": 103.33 
+},
+{
+ "code": "77236",
+"nom": "Jaulnes",
+"value": 61.613 
+},
+{
+ "code": "77237",
+"nom": "Jossigny",
+"value": 72.401 
+},
+{
+ "code": "77238",
+"nom": "Jouarre",
+"value": 118.64 
+},
+{
+ "code": "77239",
+"nom": "Jouy-le-Chatel",
+"value": 102.37 
+},
+{
+ "code": "77240",
+"nom": "Jouy-sur-Morin",
+"value": 114.21 
+},
+{
+ "code": "77241",
+"nom": "Juilly",
+"value": 78.741 
+},
+{
+ "code": "77242",
+"nom": "Jutigny",
+"value": 119.79 
+},
+{
+ "code": "77243",
+"nom": "Lagny-sur-Marne",
+"value": 73.241 
+},
+{
+ "code": "77244",
+"nom": "Larchant",
+"value": 109.55 
+},
+{
+ "code": "77245",
+"nom": "Laval-en-Brie",
+"value": 64.593 
+},
+{
+ "code": "77246",
+"nom": "Lechelle",
+"value": 97.318 
+},
+{
+ "code": "77247",
+"nom": "Lescherolles",
+"value": 110.92 
+},
+{
+ "code": "77248",
+"nom": "Lesches",
+"value": 86.686 
+},
+{
+ "code": "77249",
+"nom": "Lesigny",
+"value": 103.75 
+},
+{
+ "code": "77250",
+"nom": "Leudon-en-Brie",
+"value": 142.05 
+},
+{
+ "code": "77251",
+"nom": "Lieusaint",
+"value": 89.488 
+},
+{
+ "code": "77252",
+"nom": "Limoges-Fourches",
+"value": 97.666 
+},
+{
+ "code": "77253",
+"nom": "Lissy",
+"value": 93.703 
+},
+{
+ "code": "77254",
+"nom": "Liverdy-en-Brie",
+"value": 100.85 
+},
+{
+ "code": "77255",
+"nom": "Livry-sur-Seine",
+"value": 76.073 
+},
+{
+ "code": "77256",
+"nom": "Lizines",
+"value": 125.94 
+},
+{
+ "code": "77257",
+"nom": "Lizy-sur-Ourcq",
+"value": 84.472 
+},
+{
+ "code": "77258",
+"nom": "Lognes",
+"value": 94.239 
+},
+{
+ "code": "77259",
+"nom": "Longperrier",
+"value": 62.315 
+},
+{
+ "code": "77260",
+"nom": "Longueville",
+"value": 124.43 
+},
+{
+ "code": "77261",
+"nom": "Lorrez-le-Bocage-Preaux",
+"value": 104.56 
+},
+{
+ "code": "77262",
+"nom": "Louan-Villegruis-Fontaine",
+"value": 41.965 
+},
+{
+ "code": "77263",
+"nom": "Luisetaines",
+"value":  112.9 
+},
+{
+ "code": "77264",
+"nom": "Lumigny-Nesles-Ormeaux",
+"value": 143.57 
+},
+{
+ "code": "77265",
+"nom": "Luzancy",
+"value": 87.643 
+},
+{
+ "code": "77266",
+"nom": "Machault",
+"value": 43.413 
+},
+{
+ "code": "77267",
+"nom": "La Madeleine-sur-Loing",
+"value": 96.599 
+},
+{
+ "code": "77268",
+"nom": "Magny-le-Hongre",
+"value": 85.259 
+},
+{
+ "code": "77269",
+"nom": "Maincy",
+"value": 70.706 
+},
+{
+ "code": "77270",
+"nom": "Maisoncelles-en-Brie",
+"value": 118.38 
+},
+{
+ "code": "77271",
+"nom": "Maisoncelles-en-Gatinais",
+"value":    119 
+},
+{
+ "code": "77272",
+"nom": "Maison-Rouge",
+"value":  113.9 
+},
+{
+ "code": "77273",
+"nom": "Marchemoret",
+"value": 56.737 
+},
+{
+ "code": "77274",
+"nom": "Marcilly",
+"value": 55.512 
+},
+{
+ "code": "77275",
+"nom": "Les Marets",
+"value": 120.85 
+},
+{
+ "code": "77276",
+"nom": "Mareuil-les-Meaux",
+"value":  97.89 
+},
+{
+ "code": "77277",
+"nom": "Marles-en-Brie",
+"value": 126.52 
+},
+{
+ "code": "77278",
+"nom": "Marolles-en-Brie",
+"value": 95.598 
+},
+{
+ "code": "77279",
+"nom": "Marolles-sur-Seine",
+"value": 65.225 
+},
+{
+ "code": "77280",
+"nom": "Mary-sur-Marne",
+"value": 93.897 
+},
+{
+ "code": "77281",
+"nom": "Mauperthuis",
+"value": 119.02 
+},
+{
+ "code": "77282",
+"nom": "Mauregard",
+"value":  71.52 
+},
+{
+ "code": "77283",
+"nom": "May-en-Multien",
+"value": 68.009 
+},
+{
+ "code": "77284",
+"nom": "Meaux",
+"value": 86.158 
+},
+{
+ "code": "77285",
+"nom": "Le Mee-sur-Seine",
+"value": 82.835 
+},
+{
+ "code": "77286",
+"nom": "Meigneux",
+"value": 119.76 
+},
+{
+ "code": "77287",
+"nom": "Meilleray",
+"value": 75.768 
+},
+{
+ "code": "77288",
+"nom": "Melun",
+"value": 77.965 
+},
+{
+ "code": "77289",
+"nom": "Melz-sur-Seine",
+"value":  83.47 
+},
+{
+ "code": "77290",
+"nom": "Mery-sur-Marne",
+"value":  76.29 
+},
+{
+ "code": "77291",
+"nom": "Le Mesnil-Amelot",
+"value": 65.868 
+},
+{
+ "code": "77292",
+"nom": "Messy",
+"value": 79.998 
+},
+{
+ "code": "77293",
+"nom": "Misy-sur-Yonne",
+"value": 46.387 
+},
+{
+ "code": "77294",
+"nom": "Mitry-Mory",
+"value": 59.103 
+},
+{
+ "code": "77295",
+"nom": "Moisenay",
+"value": 66.169 
+},
+{
+ "code": "77296",
+"nom": "Moissy-Cramayel",
+"value": 92.269 
+},
+{
+ "code": "77297",
+"nom": "Mondreville",
+"value": 94.249 
+},
+{
+ "code": "77298",
+"nom": "Mons-en-Montois",
+"value": 122.83 
+},
+{
+ "code": "77299",
+"nom": "Montarlot",
+"value": 86.304 
+},
+{
+ "code": "77300",
+"nom": "Montceaux-les-Meaux",
+"value":  95.51 
+},
+{
+ "code": "77301",
+"nom": "Montceaux-les-Provins",
+"value": 45.459 
+},
+{
+ "code": "77302",
+"nom": "Montcourt-Fromonville",
+"value": 66.813 
+},
+{
+ "code": "77303",
+"nom": "Montdauphin",
+"value": 70.213 
+},
+{
+ "code": "77304",
+"nom": "Montenils",
+"value": 34.964 
+},
+{
+ "code": "77305",
+"nom": "Montereau-Fault-Yonne",
+"value":  79.59 
+},
+{
+ "code": "77306",
+"nom": "Montereau-sur-le-Jard",
+"value": 83.567 
+},
+{
+ "code": "77307",
+"nom": "Montevrain",
+"value": 74.749 
+},
+{
+ "code": "77308",
+"nom": "Montge-en-Goele",
+"value": 74.475 
+},
+{
+ "code": "77309",
+"nom": "Monthyon",
+"value": 76.682 
+},
+{
+ "code": "77310",
+"nom": "Montigny-le-Guesdier",
+"value": 43.956 
+},
+{
+ "code": "77311",
+"nom": "Montigny-Lencoup",
+"value": 87.616 
+},
+{
+ "code": "77312",
+"nom": "Montigny-sur-Loing",
+"value":  49.97 
+},
+{
+ "code": "77313",
+"nom": "Montmachoux",
+"value": 77.589 
+},
+{
+ "code": "77314",
+"nom": "Montolivet",
+"value": 66.813 
+},
+{
+ "code": "77315",
+"nom": "Montry",
+"value": 89.898 
+},
+{
+ "code": "77316",
+"nom": "Moret-sur-Loing",
+"value":  61.14 
+},
+{
+ "code": "77317",
+"nom": "Mormant",
+"value": 57.809 
+},
+{
+ "code": "77318",
+"nom": "Mortcerf",
+"value": 104.99 
+},
+{
+ "code": "77319",
+"nom": "Mortery",
+"value": 108.38 
+},
+{
+ "code": "77320",
+"nom": "Mouroux",
+"value": 114.16 
+},
+{
+ "code": "77321",
+"nom": "Mousseaux-les-Bray",
+"value": 57.478 
+},
+{
+ "code": "77322",
+"nom": "Moussy-le-Neuf",
+"value": 56.513 
+},
+{
+ "code": "77323",
+"nom": "Moussy-le-Vieux",
+"value": 62.947 
+},
+{
+ "code": "77325",
+"nom": "Mouy-sur-Seine",
+"value":  83.21 
+},
+{
+ "code": "77326",
+"nom": "Nandy",
+"value": 79.619 
+},
+{
+ "code": "77327",
+"nom": "Nangis",
+"value": 82.937 
+},
+{
+ "code": "77328",
+"nom": "Nanteau-sur-Essonne",
+"value": 88.358 
+},
+{
+ "code": "77329",
+"nom": "Nanteau-sur-Lunain",
+"value": 100.48 
+},
+{
+ "code": "77330",
+"nom": "Nanteuil-les-Meaux",
+"value": 98.279 
+},
+{
+ "code": "77331",
+"nom": "Nanteuil-sur-Marne",
+"value": 64.224 
+},
+{
+ "code": "77332",
+"nom": "Nantouillet",
+"value": 82.228 
+},
+{
+ "code": "77333",
+"nom": "Nemours",
+"value": 82.622 
+},
+{
+ "code": "77335",
+"nom": "Chauconin-Neufmontiers",
+"value": 89.284 
+},
+{
+ "code": "77336",
+"nom": "Neufmoutiers-en-Brie",
+"value": 82.007 
+},
+{
+ "code": "77337",
+"nom": "Noisiel",
+"value": 105.44 
+},
+{
+ "code": "77338",
+"nom": "Noisy-Rudignon",
+"value":  101.3 
+},
+{
+ "code": "77339",
+"nom": "Noisy-sur-Ecole",
+"value": 84.605 
+},
+{
+ "code": "77340",
+"nom": "Nonville",
+"value": 81.612 
+},
+{
+ "code": "77341",
+"nom": "Noyen-sur-Seine",
+"value": 70.224 
+},
+{
+ "code": "77342",
+"nom": "Obsonville",
+"value": 120.91 
+},
+{
+ "code": "77343",
+"nom": "Ocquerre",
+"value": 99.329 
+},
+{
+ "code": "77344",
+"nom": "Oissery",
+"value": 32.373 
+},
+{
+ "code": "77345",
+"nom": "Orly-sur-Morin",
+"value": 101.27 
+},
+{
+ "code": "77347",
+"nom": "Les Ormes-sur-Voulzie",
+"value": 106.24 
+},
+{
+ "code": "77348",
+"nom": "Ormesson",
+"value": 110.91 
+},
+{
+ "code": "77349",
+"nom": "Othis",
+"value": 45.039 
+},
+{
+ "code": "77350",
+"nom": "Ozoir-la-Ferriere",
+"value": 72.197 
+},
+{
+ "code": "77352",
+"nom": "Ozouer-le-Voulgis",
+"value": 97.258 
+},
+{
+ "code": "77353",
+"nom": "Paley",
+"value": 108.66 
+},
+{
+ "code": "77354",
+"nom": "Pamfou",
+"value":  41.99 
+},
+{
+ "code": "77355",
+"nom": "Paroy",
+"value": 117.95 
+},
+{
+ "code": "77356",
+"nom": "Passy-sur-Seine",
+"value": 53.744 
+},
+{
+ "code": "77357",
+"nom": "Pecy",
+"value": 95.443 
+},
+{
+ "code": "77358",
+"nom": "Penchard",
+"value":  81.38 
+},
+{
+ "code": "77359",
+"nom": "Perthes",
+"value": 94.197 
+},
+{
+ "code": "77360",
+"nom": "Pezarches",
+"value":  136.5 
+},
+{
+ "code": "77361",
+"nom": "Pierre-Levee",
+"value": 116.58 
+},
+{
+ "code": "77363",
+"nom": "Le Pin",
+"value": 76.516 
+},
+{
+ "code": "77364",
+"nom": "Le Plessis-aux-Bois",
+"value": 85.162 
+},
+{
+ "code": "77365",
+"nom": "Le Plessis-Feu-Aussoux",
+"value": 128.61 
+},
+{
+ "code": "77366",
+"nom": "Le Plessis-l'Eveque",
+"value": 81.745 
+},
+{
+ "code": "77367",
+"nom": "Le Plessis-Placy",
+"value": 64.474 
+},
+{
+ "code": "77368",
+"nom": "Poigny",
+"value": 116.39 
+},
+{
+ "code": "77369",
+"nom": "Poincy",
+"value": 81.416 
+},
+{
+ "code": "77370",
+"nom": "Poligny",
+"value": 86.408 
+},
+{
+ "code": "77371",
+"nom": "Pommeuse",
+"value":  117.8 
+},
+{
+ "code": "77372",
+"nom": "Pomponne",
+"value": 75.679 
+},
+{
+ "code": "77373",
+"nom": "Pontault-Combault",
+"value": 100.52 
+},
+{
+ "code": "77374",
+"nom": "Pontcarre",
+"value": 63.603 
+},
+{
+ "code": "77376",
+"nom": "Precy-sur-Marne",
+"value":  85.93 
+},
+{
+ "code": "77377",
+"nom": "Presles-en-Brie",
+"value": 92.252 
+},
+{
+ "code": "77378",
+"nom": "Pringy",
+"value": 88.105 
+},
+{
+ "code": "77379",
+"nom": "Provins",
+"value": 109.25 
+},
+{
+ "code": "77380",
+"nom": "Puisieux",
+"value": 39.197 
+},
+{
+ "code": "77381",
+"nom": "Quiers",
+"value": 83.297 
+},
+{
+ "code": "77382",
+"nom": "Quincy-Voisins",
+"value": 103.18 
+},
+{
+ "code": "77383",
+"nom": "Rampillon",
+"value":  109.1 
+},
+{
+ "code": "77384",
+"nom": "Reau",
+"value": 85.806 
+},
+{
+ "code": "77385",
+"nom": "Rebais",
+"value": 100.99 
+},
+{
+ "code": "77386",
+"nom": "Recloses",
+"value": 62.182 
+},
+{
+ "code": "77387",
+"nom": "Remauville",
+"value": 97.408 
+},
+{
+ "code": "77388",
+"nom": "Reuil-en-Brie",
+"value": 103.54 
+},
+{
+ "code": "77389",
+"nom": "La Rochette",
+"value": 83.959 
+},
+{
+ "code": "77390",
+"nom": "Roissy-en-Brie",
+"value": 71.493 
+},
+{
+ "code": "77391",
+"nom": "Rouilly",
+"value": 105.85 
+},
+{
+ "code": "77392",
+"nom": "Rouvres",
+"value": 53.775 
+},
+{
+ "code": "77393",
+"nom": "Rozay-en-Brie",
+"value": 132.24 
+},
+{
+ "code": "77394",
+"nom": "Rubelles",
+"value": 74.176 
+},
+{
+ "code": "77395",
+"nom": "Rumont",
+"value":  94.13 
+},
+{
+ "code": "77396",
+"nom": "Rupereux",
+"value": 107.78 
+},
+{
+ "code": "77397",
+"nom": "Saacy-sur-Marne",
+"value": 81.895 
+},
+{
+ "code": "77398",
+"nom": "Sablonnieres",
+"value": 95.322 
+},
+{
+ "code": "77399",
+"nom": "Saint-Ange-le-Viel",
+"value":  113.3 
+},
+{
+ "code": "77400",
+"nom": "Saint-Augustin",
+"value":  118.3 
+},
+{
+ "code": "77401",
+"nom": "Sainte-Aulde",
+"value": 86.313 
+},
+{
+ "code": "77402",
+"nom": "Saint-Barthelemy",
+"value": 107.67 
+},
+{
+ "code": "77403",
+"nom": "Saint-Brice",
+"value": 109.12 
+},
+{
+ "code": "77404",
+"nom": "Sainte-Colombe",
+"value": 121.18 
+},
+{
+ "code": "77405",
+"nom": "Saint-Cyr-sur-Morin",
+"value": 113.01 
+},
+{
+ "code": "77406",
+"nom": "Saint-Denis-les-Rebais",
+"value": 97.199 
+},
+{
+ "code": "77407",
+"nom": "Saint-Fargeau-Ponthierry",
+"value":  84.72 
+},
+{
+ "code": "77408",
+"nom": "Saint-Fiacre",
+"value":  102.3 
+},
+{
+ "code": "77409",
+"nom": "Saint-Germain-Laval",
+"value": 70.247 
+},
+{
+ "code": "77410",
+"nom": "Saint-Germain-Laxis",
+"value": 78.199 
+},
+{
+ "code": "77411",
+"nom": "Saint-Germain-sous-Doue",
+"value":  104.9 
+},
+{
+ "code": "77412",
+"nom": "Saint-Germain-sur-Ecole",
+"value": 95.638 
+},
+{
+ "code": "77413",
+"nom": "Saint-Germain-sur-Morin",
+"value":  92.25 
+},
+{
+ "code": "77414",
+"nom": "Saint-Hilliers",
+"value": 117.02 
+},
+{
+ "code": "77415",
+"nom": "Saint-Jean-les-Deux-Jumeaux",
+"value": 100.29 
+},
+{
+ "code": "77416",
+"nom": "Saint-Just-en-Brie",
+"value": 96.279 
+},
+{
+ "code": "77417",
+"nom": "Saint-Leger",
+"value": 106.51 
+},
+{
+ "code": "77418",
+"nom": "Saint-Loup-de-Naud",
+"value": 125.22 
+},
+{
+ "code": "77419",
+"nom": "Saint-Mammes",
+"value": 52.997 
+},
+{
+ "code": "77420",
+"nom": "Saint-Mard",
+"value": 71.125 
+},
+{
+ "code": "77421",
+"nom": "Saint-Mars-Vieux-Maisons",
+"value": 126.75 
+},
+{
+ "code": "77423",
+"nom": "Saint-Martin-des-Champs",
+"value": 116.17 
+},
+{
+ "code": "77424",
+"nom": "Saint-Martin-du-Boschet",
+"value": 52.741 
+},
+{
+ "code": "77425",
+"nom": "Saint-Martin-en-Biere",
+"value": 81.424 
+},
+{
+ "code": "77426",
+"nom": "Saint-Mery",
+"value": 44.425 
+},
+{
+ "code": "77427",
+"nom": "Saint-Mesmes",
+"value": 85.112 
+},
+{
+ "code": "77428",
+"nom": "Saint-Ouen-en-Brie",
+"value": 51.535 
+},
+{
+ "code": "77429",
+"nom": "Saint-Ouen-sur-Morin",
+"value": 107.35 
+},
+{
+ "code": "77430",
+"nom": "Saint-Pathus",
+"value":  33.42 
+},
+{
+ "code": "77431",
+"nom": "Saint-Pierre-les-Nemours",
+"value": 93.804 
+},
+{
+ "code": "77432",
+"nom": "Saint-Remy-la-Vanne",
+"value": 101.77 
+},
+{
+ "code": "77433",
+"nom": "Saints",
+"value": 113.73 
+},
+{
+ "code": "77434",
+"nom": "Saint-Sauveur-les-Bray",
+"value": 99.163 
+},
+{
+ "code": "77435",
+"nom": "Saint-Sauveur-sur-Ecole",
+"value": 92.939 
+},
+{
+ "code": "77436",
+"nom": "Saint-Simeon",
+"value": 92.766 
+},
+{
+ "code": "77437",
+"nom": "Saint-Soupplets",
+"value": 61.816 
+},
+{
+ "code": "77438",
+"nom": "Saint-Thibault-des-Vignes",
+"value": 77.721 
+},
+{
+ "code": "77439",
+"nom": "Salins",
+"value":  73.05 
+},
+{
+ "code": "77440",
+"nom": "Sammeron",
+"value": 108.35 
+},
+{
+ "code": "77441",
+"nom": "Samois-sur-Seine",
+"value": 44.503 
+},
+{
+ "code": "77442",
+"nom": "Samoreau",
+"value": 36.168 
+},
+{
+ "code": "77443",
+"nom": "Sancy",
+"value": 116.83 
+},
+{
+ "code": "77444",
+"nom": "Sancy-les-Provins",
+"value": 75.411 
+},
+{
+ "code": "77445",
+"nom": "Savigny-le-Temple",
+"value": 78.848 
+},
+{
+ "code": "77446",
+"nom": "Savins",
+"value": 126.31 
+},
+{
+ "code": "77447",
+"nom": "Seine-Port",
+"value": 81.037 
+},
+{
+ "code": "77448",
+"nom": "Sept-Sorts",
+"value": 113.08 
+},
+{
+ "code": "77449",
+"nom": "Serris",
+"value": 77.835 
+},
+{
+ "code": "77450",
+"nom": "Servon",
+"value": 125.54 
+},
+{
+ "code": "77451",
+"nom": "Signy-Signets",
+"value":  113.5 
+},
+{
+ "code": "77452",
+"nom": "Sigy",
+"value": 117.31 
+},
+{
+ "code": "77453",
+"nom": "Sivry-Courtry",
+"value": 57.061 
+},
+{
+ "code": "77454",
+"nom": "Sognolles-en-Montois",
+"value": 126.69 
+},
+{
+ "code": "77455",
+"nom": "Soignolles-en-Brie",
+"value": 102.79 
+},
+{
+ "code": "77456",
+"nom": "Soisy-Bouy",
+"value": 117.06 
+},
+{
+ "code": "77457",
+"nom": "Solers",
+"value": 102.73 
+},
+{
+ "code": "77458",
+"nom": "Souppes-sur-Loing",
+"value": 76.409 
+},
+{
+ "code": "77459",
+"nom": "Sourdun",
+"value":  111.8 
+},
+{
+ "code": "77460",
+"nom": "Tancrou",
+"value": 105.78 
+},
+{
+ "code": "77461",
+"nom": "Thenisy",
+"value": 122.51 
+},
+{
+ "code": "77462",
+"nom": "Thieux",
+"value": 73.151 
+},
+{
+ "code": "77463",
+"nom": "Thomery",
+"value": 37.191 
+},
+{
+ "code": "77464",
+"nom": "Thorigny-sur-Marne",
+"value": 72.515 
+},
+{
+ "code": "77465",
+"nom": "Thoury-Ferottes",
+"value":  106.1 
+},
+{
+ "code": "77466",
+"nom": "Tigeaux",
+"value": 98.025 
+},
+{
+ "code": "77467",
+"nom": "La Tombe",
+"value": 58.169 
+},
+{
+ "code": "77468",
+"nom": "Torcy",
+"value": 85.557 
+},
+{
+ "code": "77469",
+"nom": "Touquin",
+"value": 130.95 
+},
+{
+ "code": "77470",
+"nom": "Tournan-en-Brie",
+"value": 86.237 
+},
+{
+ "code": "77471",
+"nom": "Tousson",
+"value": 93.207 
+},
+{
+ "code": "77472",
+"nom": "La Tretoire",
+"value": 99.779 
+},
+{
+ "code": "77473",
+"nom": "Treuzy-Levelay",
+"value": 92.718 
+},
+{
+ "code": "77474",
+"nom": "Trilbardou",
+"value": 92.352 
+},
+{
+ "code": "77475",
+"nom": "Trilport",
+"value": 89.225 
+},
+{
+ "code": "77476",
+"nom": "Trocy-en-Multien",
+"value": 63.099 
+},
+{
+ "code": "77477",
+"nom": "Ury",
+"value":  74.28 
+},
+{
+ "code": "77478",
+"nom": "Ussy-sur-Marne",
+"value": 104.59 
+},
+{
+ "code": "77479",
+"nom": "Vaires-sur-Marne",
+"value": 90.748 
+},
+{
+ "code": "77480",
+"nom": "Valence-en-Brie",
+"value": 50.654 
+},
+{
+ "code": "77481",
+"nom": "Vanville",
+"value": 111.07 
+},
+{
+ "code": "77482",
+"nom": "Varennes-sur-Seine",
+"value": 92.087 
+},
+{
+ "code": "77483",
+"nom": "Varreddes",
+"value": 73.074 
+},
+{
+ "code": "77484",
+"nom": "Vaucourtois",
+"value":  113.1 
+},
+{
+ "code": "77485",
+"nom": "Le Vaudoue",
+"value": 92.459 
+},
+{
+ "code": "77486",
+"nom": "Vaudoy-en-Brie",
+"value": 110.11 
+},
+{
+ "code": "77487",
+"nom": "Vaux-le-Penil",
+"value": 72.364 
+},
+{
+ "code": "77489",
+"nom": "Vaux-sur-Lunain",
+"value": 67.478 
+},
+{
+ "code": "77490",
+"nom": "Vendrest",
+"value":  103.2 
+},
+{
+ "code": "77491",
+"nom": "Veneux-les-Sablons",
+"value": 47.147 
+},
+{
+ "code": "77492",
+"nom": "Verdelot",
+"value": 80.083 
+},
+{
+ "code": "77493",
+"nom": "Verneuil-l'Etang",
+"value": 81.752 
+},
+{
+ "code": "77494",
+"nom": "Vernou-la-Celle-sur-Seine",
+"value": 56.931 
+},
+{
+ "code": "77495",
+"nom": "Vert-Saint-Denis",
+"value": 77.357 
+},
+{
+ "code": "77496",
+"nom": "Vieux-Champagne",
+"value": 99.889 
+},
+{
+ "code": "77498",
+"nom": "Vignely",
+"value":  92.41 
+},
+{
+ "code": "77500",
+"nom": "Villebeon",
+"value": 74.103 
+},
+{
+ "code": "77501",
+"nom": "Villecerf",
+"value": 91.899 
+},
+{
+ "code": "77504",
+"nom": "Villemarechal",
+"value":  113.3 
+},
+{
+ "code": "77505",
+"nom": "Villemareuil",
+"value":  104.3 
+},
+{
+ "code": "77506",
+"nom": "Villemer",
+"value": 93.937 
+},
+{
+ "code": "77507",
+"nom": "Villenauxe-la-Petite",
+"value": 45.127 
+},
+{
+ "code": "77508",
+"nom": "Villeneuve-le-Comte",
+"value": 81.466 
+},
+{
+ "code": "77509",
+"nom": "Villeneuve-les-Bordes",
+"value": 86.902 
+},
+{
+ "code": "77510",
+"nom": "Villeneuve-Saint-Denis",
+"value": 74.338 
+},
+{
+ "code": "77511",
+"nom": "Villeneuve-sous-Dammartin",
+"value": 67.641 
+},
+{
+ "code": "77512",
+"nom": "Villeneuve-sur-Bellot",
+"value": 92.221 
+},
+{
+ "code": "77513",
+"nom": "Villenoy",
+"value": 92.973 
+},
+{
+ "code": "77514",
+"nom": "Villeparisis",
+"value": 67.153 
+},
+{
+ "code": "77515",
+"nom": "Villeroy",
+"value": 90.425 
+},
+{
+ "code": "77516",
+"nom": "Ville-Saint-Jacques",
+"value": 98.709 
+},
+{
+ "code": "77517",
+"nom": "Villevaude",
+"value": 72.722 
+},
+{
+ "code": "77518",
+"nom": "Villiers-en-Biere",
+"value": 91.389 
+},
+{
+ "code": "77519",
+"nom": "Villiers-Saint-Georges",
+"value":  69.54 
+},
+{
+ "code": "77520",
+"nom": "Villiers-sous-Grez",
+"value": 77.273 
+},
+{
+ "code": "77521",
+"nom": "Villiers-sur-Morin",
+"value": 93.674 
+},
+{
+ "code": "77522",
+"nom": "Villiers-sur-Seine",
+"value": 63.558 
+},
+{
+ "code": "77523",
+"nom": "Villuis",
+"value": 37.312 
+},
+{
+ "code": "77524",
+"nom": "Vimpelles",
+"value": 105.71 
+},
+{
+ "code": "77525",
+"nom": "Vinantes",
+"value":  85.82 
+},
+{
+ "code": "77526",
+"nom": "Vincy-Manoeuvre",
+"value": 41.573 
+},
+{
+ "code": "77527",
+"nom": "Voinsles",
+"value": 122.68 
+},
+{
+ "code": "77528",
+"nom": "Voisenon",
+"value": 75.684 
+},
+{
+ "code": "77529",
+"nom": "Voulangis",
+"value": 97.678 
+},
+{
+ "code": "77530",
+"nom": "Voulton",
+"value": 100.03 
+},
+{
+ "code": "77531",
+"nom": "Voulx",
+"value": 87.274 
+},
+{
+ "code": "77532",
+"nom": "Vulaines-les-Provins",
+"value":  116.2 
+},
+{
+ "code": "77533",
+"nom": "Vulaines-sur-Seine",
+"value": 37.821 
+},
+{
+ "code": "77534",
+"nom": "Yebles",
+"value":  87.75 
+},
+{
+ "code": "78003",
+"nom": "Ablis",
+"value": 59.761 
+},
+{
+ "code": "78005",
+"nom": "Acheres",
+"value": 154.52 
+},
+{
+ "code": "78006",
+"nom": "Adainville",
+"value": 45.338 
+},
+{
+ "code": "78007",
+"nom": "Aigremont",
+"value": 186.19 
+},
+{
+ "code": "78009",
+"nom": "Allainville",
+"value": 61.753 
+},
+{
+ "code": "78010",
+"nom": "Les Alluets-le-Roi",
+"value": 149.42 
+},
+{
+ "code": "78013",
+"nom": "Andelu",
+"value": 123.65 
+},
+{
+ "code": "78015",
+"nom": "Andresy",
+"value": 126.22 
+},
+{
+ "code": "78020",
+"nom": "Arnouville-les-Mantes",
+"value": 118.91 
+},
+{
+ "code": "78029",
+"nom": "Aubergenville",
+"value": 122.57 
+},
+{
+ "code": "78030",
+"nom": "Auffargis",
+"value": 55.474 
+},
+{
+ "code": "78031",
+"nom": "Auffreville-Brasseuil",
+"value": 107.78 
+},
+{
+ "code": "78033",
+"nom": "Aulnay-sur-Mauldre",
+"value":  134.4 
+},
+{
+ "code": "78034",
+"nom": "Auteuil",
+"value": 96.373 
+},
+{
+ "code": "78036",
+"nom": "Autouillet",
+"value": 99.769 
+},
+{
+ "code": "78043",
+"nom": "Bailly",
+"value": 268.49 
+},
+{
+ "code": "78048",
+"nom": "Bazainville",
+"value": 74.627 
+},
+{
+ "code": "78049",
+"nom": "Bazemont",
+"value": 139.62 
+},
+{
+ "code": "78050",
+"nom": "Bazoches-sur-Guyonne",
+"value": 77.994 
+},
+{
+ "code": "78053",
+"nom": "Behoust",
+"value": 96.692 
+},
+{
+ "code": "78057",
+"nom": "Bennecourt",
+"value": 57.825 
+},
+{
+ "code": "78062",
+"nom": "Beynes",
+"value": 111.29 
+},
+{
+ "code": "78068",
+"nom": "Blaru",
+"value": 39.991 
+},
+{
+ "code": "78070",
+"nom": "Boinville-en-Mantois",
+"value":  121.4 
+},
+{
+ "code": "78071",
+"nom": "Boinville-le-Gaillard",
+"value":  64.53 
+},
+{
+ "code": "78072",
+"nom": "Boinvilliers",
+"value": 123.28 
+},
+{
+ "code": "78073",
+"nom": "Bois-d'Arcy",
+"value": 146.08 
+},
+{
+ "code": "78076",
+"nom": "Boissets",
+"value": 75.123 
+},
+{
+ "code": "78077",
+"nom": "La Boissiere-Ecole",
+"value":  45.72 
+},
+{
+ "code": "78082",
+"nom": "Boissy-Mauvoisin",
+"value": 108.73 
+},
+{
+ "code": "78084",
+"nom": "Boissy-sans-Avoir",
+"value": 88.296 
+},
+{
+ "code": "78087",
+"nom": "Bonnelles",
+"value": 66.396 
+},
+{
+ "code": "78089",
+"nom": "Bonnieres-sur-Seine",
+"value": 81.549 
+},
+{
+ "code": "78090",
+"nom": "Bouafle",
+"value": 128.38 
+},
+{
+ "code": "78092",
+"nom": "Bougival",
+"value": 478.04 
+},
+{
+ "code": "78096",
+"nom": "Bourdonne",
+"value": 46.836 
+},
+{
+ "code": "78104",
+"nom": "Breuil-Bois-Robert",
+"value": 113.52 
+},
+{
+ "code": "78107",
+"nom": "Breval",
+"value": 91.766 
+},
+{
+ "code": "78108",
+"nom": "Les Breviaires",
+"value": 74.777 
+},
+{
+ "code": "78113",
+"nom": "Brueil-en-Vexin",
+"value": 81.553 
+},
+{
+ "code": "78117",
+"nom": "Buc",
+"value": 177.02 
+},
+{
+ "code": "78118",
+"nom": "Buchelay",
+"value": 93.262 
+},
+{
+ "code": "78120",
+"nom": "Bullion",
+"value": 44.566 
+},
+{
+ "code": "78123",
+"nom": "Carrieres-sous-Poissy",
+"value": 144.53 
+},
+{
+ "code": "78124",
+"nom": "Carrieres-sur-Seine",
+"value": 601.65 
+},
+{
+ "code": "78125",
+"nom": "La Celle-les-Bordes",
+"value":  40.44 
+},
+{
+ "code": "78126",
+"nom": "La Celle-Saint-Cloud",
+"value": 443.27 
+},
+{
+ "code": "78128",
+"nom": "Cernay-la-Ville",
+"value": 51.931 
+},
+{
+ "code": "78133",
+"nom": "Chambourcy",
+"value": 206.21 
+},
+{
+ "code": "78138",
+"nom": "Chanteloup-les-Vignes",
+"value":  122.8 
+},
+{
+ "code": "78140",
+"nom": "Chapet",
+"value": 122.22 
+},
+{
+ "code": "78143",
+"nom": "Chateaufort",
+"value": 117.52 
+},
+{
+ "code": "78146",
+"nom": "Chatou",
+"value": 526.73 
+},
+{
+ "code": "78147",
+"nom": "Chaufour-les-Bonnieres",
+"value": 49.719 
+},
+{
+ "code": "78152",
+"nom": "Chavenay",
+"value":  156.3 
+},
+{
+ "code": "78158",
+"nom": "Le Chesnay",
+"value": 368.53 
+},
+{
+ "code": "78160",
+"nom": "Chevreuse",
+"value": 88.385 
+},
+{
+ "code": "78162",
+"nom": "Choisel",
+"value": 75.142 
+},
+{
+ "code": "78163",
+"nom": "Civry-la-Foret",
+"value": 92.962 
+},
+{
+ "code": "78164",
+"nom": "Clairefontaine-en-Yvelines",
+"value": 39.525 
+},
+{
+ "code": "78165",
+"nom": "Les Clayes-sous-Bois",
+"value": 131.72 
+},
+{
+ "code": "78168",
+"nom": "Coignieres",
+"value":  75.16 
+},
+{
+ "code": "78171",
+"nom": "Conde-sur-Vesgre",
+"value": 50.344 
+},
+{
+ "code": "78172",
+"nom": "Conflans-Sainte-Honorine",
+"value": 137.79 
+},
+{
+ "code": "78185",
+"nom": "Courgent",
+"value":  118.3 
+},
+{
+ "code": "78188",
+"nom": "Cravent",
+"value": 54.843 
+},
+{
+ "code": "78189",
+"nom": "Crespieres",
+"value":  145.8 
+},
+{
+ "code": "78190",
+"nom": "Croissy-sur-Seine",
+"value": 462.86 
+},
+{
+ "code": "78192",
+"nom": "Dammartin-en-Serve",
+"value": 119.15 
+},
+{
+ "code": "78193",
+"nom": "Dampierre-en-Yvelines",
+"value":  66.72 
+},
+{
+ "code": "78194",
+"nom": "Dannemarie",
+"value": 34.265 
+},
+{
+ "code": "78196",
+"nom": "Davron",
+"value": 145.62 
+},
+{
+ "code": "78202",
+"nom": "Drocourt",
+"value": 57.106 
+},
+{
+ "code": "78206",
+"nom": "Ecquevilly",
+"value": 135.54 
+},
+{
+ "code": "78208",
+"nom": "Elancourt",
+"value": 86.437 
+},
+{
+ "code": "78209",
+"nom": "Emance",
+"value":  34.95 
+},
+{
+ "code": "78217",
+"nom": "Epone",
+"value": 124.15 
+},
+{
+ "code": "78220",
+"nom": "Les Essarts-le-Roi",
+"value":  68.71 
+},
+{
+ "code": "78224",
+"nom": "L'Etang-la-Ville",
+"value":  254.8 
+},
+{
+ "code": "78227",
+"nom": "Evecquemont",
+"value": 120.61 
+},
+{
+ "code": "78230",
+"nom": "La Falaise",
+"value": 130.04 
+},
+{
+ "code": "78231",
+"nom": "Favrieux",
+"value":  118.6 
+},
+{
+ "code": "78233",
+"nom": "Feucherolles",
+"value": 167.81 
+},
+{
+ "code": "78234",
+"nom": "Flacourt",
+"value": 122.56 
+},
+{
+ "code": "78236",
+"nom": "Flexanville",
+"value": 105.38 
+},
+{
+ "code": "78237",
+"nom": "Flins-Neuve-Eglise",
+"value": 91.482 
+},
+{
+ "code": "78238",
+"nom": "Flins-sur-Seine",
+"value": 123.32 
+},
+{
+ "code": "78239",
+"nom": "Follainville-Dennemont",
+"value": 61.405 
+},
+{
+ "code": "78242",
+"nom": "Fontenay-le-Fleury",
+"value": 194.08 
+},
+{
+ "code": "78245",
+"nom": "Fontenay-Mauvoisin",
+"value": 110.81 
+},
+{
+ "code": "78246",
+"nom": "Fontenay-Saint-Pere",
+"value": 60.746 
+},
+{
+ "code": "78251",
+"nom": "Fourqueux",
+"value": 241.39 
+},
+{
+ "code": "78255",
+"nom": "Freneuse",
+"value": 54.454 
+},
+{
+ "code": "78261",
+"nom": "Gaillon-sur-Montcient",
+"value": 114.55 
+},
+{
+ "code": "78262",
+"nom": "Galluis",
+"value": 82.484 
+},
+{
+ "code": "78263",
+"nom": "Gambais",
+"value": 62.467 
+},
+{
+ "code": "78264",
+"nom": "Gambaiseuil",
+"value": 69.215 
+},
+{
+ "code": "78265",
+"nom": "Garancieres",
+"value": 92.027 
+},
+{
+ "code": "78267",
+"nom": "Gargenville",
+"value": 95.993 
+},
+{
+ "code": "78269",
+"nom": "Gazeran",
+"value": 52.233 
+},
+{
+ "code": "78276",
+"nom": "Gommecourt",
+"value": 40.588 
+},
+{
+ "code": "78278",
+"nom": "Goupillieres",
+"value": 116.71 
+},
+{
+ "code": "78281",
+"nom": "Goussonville",
+"value": 124.82 
+},
+{
+ "code": "78283",
+"nom": "Grandchamp",
+"value": 28.291 
+},
+{
+ "code": "78285",
+"nom": "Gressey",
+"value": 66.419 
+},
+{
+ "code": "78289",
+"nom": "Grosrouvre",
+"value": 78.948 
+},
+{
+ "code": "78290",
+"nom": "Guernes",
+"value": 80.311 
+},
+{
+ "code": "78291",
+"nom": "Guerville",
+"value": 109.64 
+},
+{
+ "code": "78296",
+"nom": "Guitrancourt",
+"value": 77.267 
+},
+{
+ "code": "78297",
+"nom": "Guyancourt",
+"value": 141.88 
+},
+{
+ "code": "78299",
+"nom": "Hardricourt",
+"value": 110.65 
+},
+{
+ "code": "78300",
+"nom": "Hargeville",
+"value": 118.43 
+},
+{
+ "code": "78302",
+"nom": "La Hauteville",
+"value":   33.2 
+},
+{
+ "code": "78305",
+"nom": "Herbeville",
+"value": 144.28 
+},
+{
+ "code": "78307",
+"nom": "Hermeray",
+"value": 43.308 
+},
+{
+ "code": "78310",
+"nom": "Houdan",
+"value": 44.181 
+},
+{
+ "code": "78311",
+"nom": "Houilles",
+"value": 551.13 
+},
+{
+ "code": "78314",
+"nom": "Issou",
+"value": 93.562 
+},
+{
+ "code": "78317",
+"nom": "Jambville",
+"value": 96.824 
+},
+{
+ "code": "78320",
+"nom": "Jeufosse",
+"value": 62.136 
+},
+{
+ "code": "78321",
+"nom": "Jouars-Pontchartrain",
+"value": 79.225 
+},
+{
+ "code": "78322",
+"nom": "Jouy-en-Josas",
+"value": 210.01 
+},
+{
+ "code": "78324",
+"nom": "Jouy-Mauvoisin",
+"value": 104.38 
+},
+{
+ "code": "78325",
+"nom": "Jumeauville",
+"value": 126.72 
+},
+{
+ "code": "78327",
+"nom": "Juziers",
+"value": 101.08 
+},
+{
+ "code": "78329",
+"nom": "Lainville-en-Vexin",
+"value": 79.543 
+},
+{
+ "code": "78334",
+"nom": "Levis-Saint-Nom",
+"value": 69.789 
+},
+{
+ "code": "78335",
+"nom": "Limay",
+"value": 77.917 
+},
+{
+ "code": "78337",
+"nom": "Limetz-Villez",
+"value": 48.411 
+},
+{
+ "code": "78343",
+"nom": "Les Loges-en-Josas",
+"value":  172.5 
+},
+{
+ "code": "78344",
+"nom": "Lommoye",
+"value": 72.296 
+},
+{
+ "code": "78346",
+"nom": "Longnes",
+"value": 105.51 
+},
+{
+ "code": "78349",
+"nom": "Longvilliers",
+"value": 50.088 
+},
+{
+ "code": "78350",
+"nom": "Louveciennes",
+"value": 373.01 
+},
+{
+ "code": "78354",
+"nom": "Magnanville",
+"value": 100.96 
+},
+{
+ "code": "78356",
+"nom": "Magny-les-Hameaux",
+"value": 100.65 
+},
+{
+ "code": "78358",
+"nom": "Maisons-Laffitte",
+"value": 281.35 
+},
+{
+ "code": "78361",
+"nom": "Mantes-la-Jolie",
+"value":   79.8 
+},
+{
+ "code": "78362",
+"nom": "Mantes-la-Ville",
+"value": 93.055 
+},
+{
+ "code": "78364",
+"nom": "Marcq",
+"value": 111.62 
+},
+{
+ "code": "78366",
+"nom": "Mareil-le-Guyon",
+"value": 77.346 
+},
+{
+ "code": "78367",
+"nom": "Mareil-Marly",
+"value": 277.82 
+},
+{
+ "code": "78368",
+"nom": "Mareil-sur-Mauldre",
+"value": 134.93 
+},
+{
+ "code": "78372",
+"nom": "Marly-le-Roi",
+"value":  312.3 
+},
+{
+ "code": "78380",
+"nom": "Maule",
+"value": 133.74 
+},
+{
+ "code": "78381",
+"nom": "Maulette",
+"value": 44.717 
+},
+{
+ "code": "78382",
+"nom": "Maurecourt",
+"value": 121.58 
+},
+{
+ "code": "78383",
+"nom": "Maurepas",
+"value": 77.471 
+},
+{
+ "code": "78384",
+"nom": "Medan",
+"value": 124.94 
+},
+{
+ "code": "78385",
+"nom": "Menerville",
+"value": 112.41 
+},
+{
+ "code": "78389",
+"nom": "Mere",
+"value": 80.576 
+},
+{
+ "code": "78391",
+"nom": "Mericourt",
+"value": 64.084 
+},
+{
+ "code": "78396",
+"nom": "Le Mesnil-le-Roi",
+"value": 292.68 
+},
+{
+ "code": "78397",
+"nom": "Le Mesnil-Saint-Denis",
+"value": 74.763 
+},
+{
+ "code": "78398",
+"nom": "Les Mesnuls",
+"value": 80.776 
+},
+{
+ "code": "78401",
+"nom": "Meulan-en-Yvelines",
+"value": 115.94 
+},
+{
+ "code": "78402",
+"nom": "Mezieres-sur-Seine",
+"value": 115.53 
+},
+{
+ "code": "78403",
+"nom": "Mezy-sur-Seine",
+"value":  107.5 
+},
+{
+ "code": "78404",
+"nom": "Millemont",
+"value": 85.031 
+},
+{
+ "code": "78406",
+"nom": "Milon-la-Chapelle",
+"value": 94.085 
+},
+{
+ "code": "78407",
+"nom": "Mittainville",
+"value": 34.116 
+},
+{
+ "code": "78410",
+"nom": "Moisson",
+"value": 38.379 
+},
+{
+ "code": "78413",
+"nom": "Mondreville",
+"value": 85.638 
+},
+{
+ "code": "78415",
+"nom": "Montainville",
+"value": 124.69 
+},
+{
+ "code": "78416",
+"nom": "Montalet-le-Bois",
+"value":  86.86 
+},
+{
+ "code": "78417",
+"nom": "Montchauvet",
+"value": 113.53 
+},
+{
+ "code": "78418",
+"nom": "Montesson",
+"value":  379.6 
+},
+{
+ "code": "78420",
+"nom": "Montfort-l'Amaury",
+"value": 81.738 
+},
+{
+ "code": "78423",
+"nom": "Montigny-le-Bretonneux",
+"value": 121.39 
+},
+{
+ "code": "78431",
+"nom": "Morainvilliers",
+"value": 140.55 
+},
+{
+ "code": "78437",
+"nom": "Mousseaux-sur-Seine",
+"value": 49.171 
+},
+{
+ "code": "78439",
+"nom": "Mulcent",
+"value": 110.26 
+},
+{
+ "code": "78440",
+"nom": "Les Mureaux",
+"value":  117.9 
+},
+{
+ "code": "78442",
+"nom": "Neauphle-le-Chateau",
+"value": 89.897 
+},
+{
+ "code": "78443",
+"nom": "Neauphle-le-Vieux",
+"value": 83.443 
+},
+{
+ "code": "78444",
+"nom": "Neauphlette",
+"value": 87.535 
+},
+{
+ "code": "78451",
+"nom": "Nezel",
+"value": 130.51 
+},
+{
+ "code": "78455",
+"nom": "Noisy-le-Roi",
+"value": 238.51 
+},
+{
+ "code": "78460",
+"nom": "Oinville-sur-Montcient",
+"value": 95.772 
+},
+{
+ "code": "78464",
+"nom": "Orcemont",
+"value": 44.432 
+},
+{
+ "code": "78465",
+"nom": "Orgerus",
+"value": 97.552 
+},
+{
+ "code": "78466",
+"nom": "Orgeval",
+"value": 153.84 
+},
+{
+ "code": "78470",
+"nom": "Orphin",
+"value": 38.833 
+},
+{
+ "code": "78472",
+"nom": "Orsonville",
+"value": 51.316 
+},
+{
+ "code": "78474",
+"nom": "Orvilliers",
+"value":  95.87 
+},
+{
+ "code": "78475",
+"nom": "Osmoy",
+"value": 106.65 
+},
+{
+ "code": "78478",
+"nom": "Paray-Douaville",
+"value": 55.661 
+},
+{
+ "code": "78481",
+"nom": "Le Pecq",
+"value": 325.67 
+},
+{
+ "code": "78484",
+"nom": "Perdreauville",
+"value": 110.41 
+},
+{
+ "code": "78486",
+"nom": "Le Perray-en-Yvelines",
+"value": 68.324 
+},
+{
+ "code": "78490",
+"nom": "Plaisir",
+"value":  104.6 
+},
+{
+ "code": "78497",
+"nom": "Poigny-la-Foret",
+"value":  63.33 
+},
+{
+ "code": "78498",
+"nom": "Poissy",
+"value": 170.89 
+},
+{
+ "code": "78499",
+"nom": "Ponthevrard",
+"value": 50.389 
+},
+{
+ "code": "78501",
+"nom": "Porcheville",
+"value": 96.117 
+},
+{
+ "code": "78502",
+"nom": "Le Port-Marly",
+"value": 354.52 
+},
+{
+ "code": "78503",
+"nom": "Port-Villez",
+"value": 43.726 
+},
+{
+ "code": "78505",
+"nom": "Prunay-le-Temple",
+"value": 103.25 
+},
+{
+ "code": "78506",
+"nom": "Prunay-en-Yvelines",
+"value": 48.914 
+},
+{
+ "code": "78513",
+"nom": "La Queue-les-Yvelines",
+"value": 83.942 
+},
+{
+ "code": "78516",
+"nom": "Raizeux",
+"value": 39.601 
+},
+{
+ "code": "78517",
+"nom": "Rambouillet",
+"value": 56.275 
+},
+{
+ "code": "78518",
+"nom": "Rennemoulin",
+"value": 209.23 
+},
+{
+ "code": "78520",
+"nom": "Richebourg",
+"value": 74.983 
+},
+{
+ "code": "78522",
+"nom": "Rochefort-en-Yvelines",
+"value": 42.308 
+},
+{
+ "code": "78524",
+"nom": "Rocquencourt",
+"value":  308.6 
+},
+{
+ "code": "78528",
+"nom": "Rolleboise",
+"value": 83.542 
+},
+{
+ "code": "78530",
+"nom": "Rosay",
+"value": 120.29 
+},
+{
+ "code": "78531",
+"nom": "Rosny-sur-Seine",
+"value":  100.3 
+},
+{
+ "code": "78536",
+"nom": "Sailly",
+"value": 69.087 
+},
+{
+ "code": "78537",
+"nom": "Saint-Arnoult-en-Yvelines",
+"value": 41.105 
+},
+{
+ "code": "78545",
+"nom": "Saint-Cyr-l'Ecole",
+"value":  194.9 
+},
+{
+ "code": "78548",
+"nom": "Saint-Forget",
+"value": 74.805 
+},
+{
+ "code": "78550",
+"nom": "Saint-Germain-de-la-Grange",
+"value": 104.37 
+},
+{
+ "code": "78551",
+"nom": "Saint-Germain-en-Laye",
+"value": 210.78 
+},
+{
+ "code": "78557",
+"nom": "Saint-Hilarion",
+"value": 44.866 
+},
+{
+ "code": "78558",
+"nom": "Saint-Illiers-la-Ville",
+"value": 93.616 
+},
+{
+ "code": "78559",
+"nom": "Saint-Illiers-le-Bois",
+"value": 74.236 
+},
+{
+ "code": "78561",
+"nom": "Saint-Lambert",
+"value": 80.583 
+},
+{
+ "code": "78562",
+"nom": "Saint-Leger-en-Yvelines",
+"value": 70.465 
+},
+{
+ "code": "78564",
+"nom": "Saint-Martin-de-Brethencourt",
+"value": 60.993 
+},
+{
+ "code": "78565",
+"nom": "Saint-Martin-des-Champs",
+"value":  110.3 
+},
+{
+ "code": "78567",
+"nom": "Saint-Martin-la-Garenne",
+"value": 57.259 
+},
+{
+ "code": "78569",
+"nom": "Sainte-Mesme",
+"value": 51.321 
+},
+{
+ "code": "78571",
+"nom": "Saint-Nom-la-Breteche",
+"value": 198.01 
+},
+{
+ "code": "78575",
+"nom": "Saint-Remy-les-Chevreuse",
+"value": 103.04 
+},
+{
+ "code": "78576",
+"nom": "Saint-Remy-l'Honore",
+"value": 77.022 
+},
+{
+ "code": "78586",
+"nom": "Sartrouville",
+"value": 409.09 
+},
+{
+ "code": "78588",
+"nom": "Saulx-Marchais",
+"value": 100.69 
+},
+{
+ "code": "78590",
+"nom": "Senlisse",
+"value": 61.019 
+},
+{
+ "code": "78591",
+"nom": "Septeuil",
+"value": 113.75 
+},
+{
+ "code": "78597",
+"nom": "Soindres",
+"value": 111.79 
+},
+{
+ "code": "78601",
+"nom": "Sonchamp",
+"value": 44.851 
+},
+{
+ "code": "78605",
+"nom": "Tacoignieres",
+"value": 89.961 
+},
+{
+ "code": "78606",
+"nom": "Le Tartre-Gaudran",
+"value": 26.241 
+},
+{
+ "code": "78608",
+"nom": "Le Tertre-Saint-Denis",
+"value": 116.77 
+},
+{
+ "code": "78609",
+"nom": "Tessancourt-sur-Aubette",
+"value": 118.66 
+},
+{
+ "code": "78615",
+"nom": "Thiverval-Grignon",
+"value": 125.78 
+},
+{
+ "code": "78616",
+"nom": "Thoiry",
+"value": 115.26 
+},
+{
+ "code": "78618",
+"nom": "Tilly",
+"value": 81.176 
+},
+{
+ "code": "78620",
+"nom": "Toussus-le-Noble",
+"value": 133.67 
+},
+{
+ "code": "78621",
+"nom": "Trappes",
+"value": 96.052 
+},
+{
+ "code": "78623",
+"nom": "Le Tremblay-sur-Mauldre",
+"value": 75.603 
+},
+{
+ "code": "78624",
+"nom": "Triel-sur-Seine",
+"value": 117.45 
+},
+{
+ "code": "78638",
+"nom": "Vaux-sur-Seine",
+"value": 119.79 
+},
+{
+ "code": "78640",
+"nom": "Velizy-Villacoublay",
+"value": 366.28 
+},
+{
+ "code": "78642",
+"nom": "Verneuil-sur-Seine",
+"value": 116.88 
+},
+{
+ "code": "78643",
+"nom": "Vernouillet",
+"value": 119.53 
+},
+{
+ "code": "78644",
+"nom": "La Verriere",
+"value": 77.283 
+},
+{
+ "code": "78646",
+"nom": "Versailles",
+"value": 253.63 
+},
+{
+ "code": "78647",
+"nom": "Vert",
+"value": 116.92 
+},
+{
+ "code": "78650",
+"nom": "Le Vesinet",
+"value": 413.26 
+},
+{
+ "code": "78653",
+"nom": "Vicq",
+"value":  86.44 
+},
+{
+ "code": "78655",
+"nom": "Vieille-Eglise-en-Yvelines",
+"value": 54.877 
+},
+{
+ "code": "78668",
+"nom": "La Villeneuve-en-Chevrie",
+"value": 71.037 
+},
+{
+ "code": "78672",
+"nom": "Villennes-sur-Seine",
+"value":  141.1 
+},
+{
+ "code": "78674",
+"nom": "Villepreux",
+"value": 171.78 
+},
+{
+ "code": "78677",
+"nom": "Villette",
+"value": 119.71 
+},
+{
+ "code": "78681",
+"nom": "Villiers-le-Mahieu",
+"value": 105.25 
+},
+{
+ "code": "78683",
+"nom": "Villiers-Saint-Frederic",
+"value": 89.237 
+},
+{
+ "code": "78686",
+"nom": "Viroflay",
+"value": 407.21 
+},
+{
+ "code": "78688",
+"nom": "Voisins-le-Bretonneux",
+"value": 110.49 
+},
+{
+ "code": "91001",
+"nom": "Abbeville-la-Riviere",
+"value": 97.341 
+},
+{
+ "code": "91016",
+"nom": "Angerville",
+"value": 67.161 
+},
+{
+ "code": "91017",
+"nom": "Angervilliers",
+"value": 76.494 
+},
+{
+ "code": "91021",
+"nom": "Arpajon",
+"value": 91.145 
+},
+{
+ "code": "91022",
+"nom": "Arrancourt",
+"value": 94.584 
+},
+{
+ "code": "91027",
+"nom": "Athis-Mons",
+"value": 122.76 
+},
+{
+ "code": "91035",
+"nom": "Authon-la-Plaine",
+"value": 52.158 
+},
+{
+ "code": "91037",
+"nom": "Auvernaux",
+"value":   90.7 
+},
+{
+ "code": "91038",
+"nom": "Auvers-Saint-Georges",
+"value": 110.45 
+},
+{
+ "code": "91041",
+"nom": "Avrainville",
+"value":  84.17 
+},
+{
+ "code": "91044",
+"nom": "Ballainvilliers",
+"value": 135.08 
+},
+{
+ "code": "91045",
+"nom": "Ballancourt-sur-Essonne",
+"value":  99.77 
+},
+{
+ "code": "91047",
+"nom": "Baulne",
+"value":  103.5 
+},
+{
+ "code": "91064",
+"nom": "Bievres",
+"value": 229.24 
+},
+{
+ "code": "91067",
+"nom": "Blandy",
+"value": 80.228 
+},
+{
+ "code": "91069",
+"nom": "Boigneville",
+"value": 88.142 
+},
+{
+ "code": "91075",
+"nom": "Bois-Herpin",
+"value": 110.81 
+},
+{
+ "code": "91079",
+"nom": "Boissy-la-Riviere",
+"value":  111.7 
+},
+{
+ "code": "91080",
+"nom": "Boissy-le-Cutte",
+"value": 107.53 
+},
+{
+ "code": "91081",
+"nom": "Boissy-le-Sec",
+"value": 88.402 
+},
+{
+ "code": "91085",
+"nom": "Boissy-sous-Saint-Yon",
+"value": 87.217 
+},
+{
+ "code": "91086",
+"nom": "Bondoufle",
+"value":  105.1 
+},
+{
+ "code": "91093",
+"nom": "Boullay-les-Troux",
+"value": 91.708 
+},
+{
+ "code": "91095",
+"nom": "Bouray-sur-Juine",
+"value": 100.61 
+},
+{
+ "code": "91097",
+"nom": "Boussy-Saint-Antoine",
+"value":    128 
+},
+{
+ "code": "91098",
+"nom": "Boutervilliers",
+"value": 75.019 
+},
+{
+ "code": "91099",
+"nom": "Boutigny-sur-Essonne",
+"value": 99.357 
+},
+{
+ "code": "91100",
+"nom": "Bouville",
+"value": 110.04 
+},
+{
+ "code": "91103",
+"nom": "Bretigny-sur-Orge",
+"value": 99.837 
+},
+{
+ "code": "91105",
+"nom": "Breuillet",
+"value": 92.728 
+},
+{
+ "code": "91106",
+"nom": "Breux-Jouy",
+"value": 91.491 
+},
+{
+ "code": "91109",
+"nom": "Brieres-les-Scelles",
+"value": 108.19 
+},
+{
+ "code": "91111",
+"nom": "Briis-sous-Forges",
+"value": 111.85 
+},
+{
+ "code": "91112",
+"nom": "Brouy",
+"value": 81.956 
+},
+{
+ "code": "91114",
+"nom": "Brunoy",
+"value": 128.02 
+},
+{
+ "code": "91115",
+"nom": "Bruyeres-le-Chatel",
+"value": 100.16 
+},
+{
+ "code": "91121",
+"nom": "Buno-Bonnevaux",
+"value": 99.097 
+},
+{
+ "code": "91122",
+"nom": "Bures-sur-Yvette",
+"value": 129.97 
+},
+{
+ "code": "91129",
+"nom": "Cerny",
+"value":  108.3 
+},
+{
+ "code": "91130",
+"nom": "Chalo-Saint-Mars",
+"value": 73.342 
+},
+{
+ "code": "91131",
+"nom": "Chalou-Moulineux",
+"value": 72.129 
+},
+{
+ "code": "91132",
+"nom": "Chamarande",
+"value": 96.198 
+},
+{
+ "code": "91135",
+"nom": "Champcueil",
+"value": 96.226 
+},
+{
+ "code": "91136",
+"nom": "Champlan",
+"value": 150.77 
+},
+{
+ "code": "91137",
+"nom": "Champmotteux",
+"value": 93.279 
+},
+{
+ "code": "91145",
+"nom": "Chatignonville",
+"value": 59.524 
+},
+{
+ "code": "91148",
+"nom": "Chauffour-les-Etrechy",
+"value": 100.13 
+},
+{
+ "code": "91156",
+"nom": "Cheptainville",
+"value": 86.523 
+},
+{
+ "code": "91159",
+"nom": "Chevannes",
+"value": 95.534 
+},
+{
+ "code": "91161",
+"nom": "Chilly-Mazarin",
+"value": 146.27 
+},
+{
+ "code": "91174",
+"nom": "Corbeil-Essonnes",
+"value": 93.315 
+},
+{
+ "code": "91175",
+"nom": "Corbreuse",
+"value": 59.342 
+},
+{
+ "code": "91179",
+"nom": "Le Coudray-Montceaux",
+"value": 89.802 
+},
+{
+ "code": "91180",
+"nom": "Courances",
+"value": 84.162 
+},
+{
+ "code": "91182",
+"nom": "Courcouronnes",
+"value": 105.63 
+},
+{
+ "code": "91184",
+"nom": "Courdimanche-sur-Essonne",
+"value": 106.18 
+},
+{
+ "code": "91186",
+"nom": "Courson-Monteloup",
+"value": 100.27 
+},
+{
+ "code": "91191",
+"nom": "Crosne",
+"value": 132.75 
+},
+{
+ "code": "91195",
+"nom": "Dannemois",
+"value": 90.398 
+},
+{
+ "code": "91198",
+"nom": "D'Huison-Longueville",
+"value": 109.27 
+},
+{
+ "code": "91200",
+"nom": "Dourdan",
+"value":  54.77 
+},
+{
+ "code": "91201",
+"nom": "Draveil",
+"value": 116.12 
+},
+{
+ "code": "91204",
+"nom": "Echarcon",
+"value": 97.962 
+},
+{
+ "code": "91207",
+"nom": "Egly",
+"value": 88.277 
+},
+{
+ "code": "91215",
+"nom": "Epinay-sous-Senart",
+"value": 126.06 
+},
+{
+ "code": "91216",
+"nom": "Epinay-sur-Orge",
+"value": 131.13 
+},
+{
+ "code": "91222",
+"nom": "Estouches",
+"value": 83.276 
+},
+{
+ "code": "91223",
+"nom": "Etampes",
+"value": 101.01 
+},
+{
+ "code": "91225",
+"nom": "Etiolles",
+"value": 107.58 
+},
+{
+ "code": "91226",
+"nom": "Etrechy",
+"value": 107.07 
+},
+{
+ "code": "91228",
+"nom": "Evry",
+"value": 104.28 
+},
+{
+ "code": "91232",
+"nom": "La Ferte-Alais",
+"value": 106.54 
+},
+{
+ "code": "91235",
+"nom": "Fleury-Merogis",
+"value": 109.87 
+},
+{
+ "code": "91240",
+"nom": "Fontaine-la-Riviere",
+"value":  109.7 
+},
+{
+ "code": "91243",
+"nom": "Fontenay-les-Briis",
+"value":  106.7 
+},
+{
+ "code": "91244",
+"nom": "Fontenay-le-Vicomte",
+"value":  96.72 
+},
+{
+ "code": "91247",
+"nom": "La Foret-le-Roi",
+"value": 74.507 
+},
+{
+ "code": "91248",
+"nom": "La Foret-Sainte-Croix",
+"value": 114.46 
+},
+{
+ "code": "91249",
+"nom": "Forges-les-Bains",
+"value": 94.846 
+},
+{
+ "code": "91272",
+"nom": "Gif-sur-Yvette",
+"value": 119.61 
+},
+{
+ "code": "91273",
+"nom": "Gironville-sur-Essonne",
+"value":  102.7 
+},
+{
+ "code": "91274",
+"nom": "Gometz-la-Ville",
+"value": 114.86 
+},
+{
+ "code": "91275",
+"nom": "Gometz-le-Chatel",
+"value": 125.72 
+},
+{
+ "code": "91284",
+"nom": "Les Granges-le-Roi",
+"value":  64.43 
+},
+{
+ "code": "91286",
+"nom": "Grigny",
+"value": 113.91 
+},
+{
+ "code": "91292",
+"nom": "Guibeville",
+"value": 85.808 
+},
+{
+ "code": "91293",
+"nom": "Guigneville-sur-Essonne",
+"value": 106.05 
+},
+{
+ "code": "91294",
+"nom": "Guillerval",
+"value": 102.21 
+},
+{
+ "code": "91312",
+"nom": "Igny",
+"value": 176.91 
+},
+{
+ "code": "91315",
+"nom": "Itteville",
+"value": 103.76 
+},
+{
+ "code": "91318",
+"nom": "Janville-sur-Juine",
+"value": 101.42 
+},
+{
+ "code": "91319",
+"nom": "Janvry",
+"value": 123.15 
+},
+{
+ "code": "91326",
+"nom": "Juvisy-sur-Orge",
+"value": 121.25 
+},
+{
+ "code": "91330",
+"nom": "Lardy",
+"value": 91.855 
+},
+{
+ "code": "91332",
+"nom": "Leudeville",
+"value": 92.864 
+},
+{
+ "code": "91333",
+"nom": "Leuville-sur-Orge",
+"value": 103.29 
+},
+{
+ "code": "91338",
+"nom": "Limours",
+"value": 102.08 
+},
+{
+ "code": "91339",
+"nom": "Linas",
+"value": 109.29 
+},
+{
+ "code": "91340",
+"nom": "Lisses",
+"value": 100.45 
+},
+{
+ "code": "91345",
+"nom": "Longjumeau",
+"value": 140.59 
+},
+{
+ "code": "91347",
+"nom": "Longpont-sur-Orge",
+"value": 119.18 
+},
+{
+ "code": "91359",
+"nom": "Maisse",
+"value": 104.91 
+},
+{
+ "code": "91363",
+"nom": "Marcoussis",
+"value": 124.01 
+},
+{
+ "code": "91374",
+"nom": "Marolles-en-Beauce",
+"value": 109.08 
+},
+{
+ "code": "91376",
+"nom": "Marolles-en-Hurepoix",
+"value": 88.924 
+},
+{
+ "code": "91377",
+"nom": "Massy",
+"value": 173.25 
+},
+{
+ "code": "91378",
+"nom": "Mauchamps",
+"value": 93.772 
+},
+{
+ "code": "91386",
+"nom": "Mennecy",
+"value": 95.906 
+},
+{
+ "code": "91390",
+"nom": "Mereville",
+"value": 92.023 
+},
+{
+ "code": "91393",
+"nom": "Merobert",
+"value": 47.573 
+},
+{
+ "code": "91399",
+"nom": "Mespuits",
+"value": 103.98 
+},
+{
+ "code": "91405",
+"nom": "Milly-la-Foret",
+"value": 84.312 
+},
+{
+ "code": "91408",
+"nom": "Moigny-sur-Ecole",
+"value": 88.091 
+},
+{
+ "code": "91411",
+"nom": "Les Molieres",
+"value": 101.77 
+},
+{
+ "code": "91412",
+"nom": "Mondeville",
+"value": 97.928 
+},
+{
+ "code": "91414",
+"nom": "Monnerville",
+"value": 88.016 
+},
+{
+ "code": "91421",
+"nom": "Montgeron",
+"value": 122.13 
+},
+{
+ "code": "91425",
+"nom": "Montlhery",
+"value": 120.11 
+},
+{
+ "code": "91432",
+"nom": "Morangis",
+"value": 135.46 
+},
+{
+ "code": "91433",
+"nom": "Morigny-Champigny",
+"value":  115.7 
+},
+{
+ "code": "91434",
+"nom": "Morsang-sur-Orge",
+"value": 118.18 
+},
+{
+ "code": "91435",
+"nom": "Morsang-sur-Seine",
+"value":  86.69 
+},
+{
+ "code": "91441",
+"nom": "Nainville-les-Roches",
+"value": 93.688 
+},
+{
+ "code": "91457",
+"nom": "La Norville",
+"value": 88.489 
+},
+{
+ "code": "91458",
+"nom": "Nozay",
+"value": 130.36 
+},
+{
+ "code": "91461",
+"nom": "Ollainville",
+"value": 99.405 
+},
+{
+ "code": "91463",
+"nom": "Oncy-sur-Ecole",
+"value": 89.915 
+},
+{
+ "code": "91468",
+"nom": "Ormoy",
+"value": 94.653 
+},
+{
+ "code": "91469",
+"nom": "Ormoy-la-Riviere",
+"value": 108.69 
+},
+{
+ "code": "91471",
+"nom": "Orsay",
+"value": 137.08 
+},
+{
+ "code": "91473",
+"nom": "Orveau",
+"value": 107.96 
+},
+{
+ "code": "91477",
+"nom": "Palaiseau",
+"value":  148.9 
+},
+{
+ "code": "91479",
+"nom": "Paray-Vieille-Poste",
+"value": 140.98 
+},
+{
+ "code": "91482",
+"nom": "Pecqueuse",
+"value": 79.343 
+},
+{
+ "code": "91494",
+"nom": "Le Plessis-Pate",
+"value": 103.01 
+},
+{
+ "code": "91495",
+"nom": "Plessis-Saint-Benoist",
+"value": 54.426 
+},
+{
+ "code": "91507",
+"nom": "Prunay-sur-Essonne",
+"value": 98.287 
+},
+{
+ "code": "91508",
+"nom": "Puiselet-le-Marais",
+"value": 116.65 
+},
+{
+ "code": "91511",
+"nom": "Pussay",
+"value": 66.894 
+},
+{
+ "code": "91514",
+"nom": "Quincy-sous-Senart",
+"value": 119.29 
+},
+{
+ "code": "91519",
+"nom": "Richarville",
+"value":  59.51 
+},
+{
+ "code": "91521",
+"nom": "Ris-Orangis",
+"value": 110.65 
+},
+{
+ "code": "91525",
+"nom": "Roinville",
+"value": 74.999 
+},
+{
+ "code": "91526",
+"nom": "Roinvilliers",
+"value": 95.663 
+},
+{
+ "code": "91533",
+"nom": "Saclas",
+"value": 112.54 
+},
+{
+ "code": "91534",
+"nom": "Saclay",
+"value":  148.7 
+},
+{
+ "code": "91538",
+"nom": "Saint-Aubin",
+"value": 125.07 
+},
+{
+ "code": "91540",
+"nom": "Saint-Cheron",
+"value": 89.809 
+},
+{
+ "code": "91544",
+"nom": "Saint-Cyr-la-Riviere",
+"value": 110.32 
+},
+{
+ "code": "91546",
+"nom": "Saint-Cyr-sous-Dourdan",
+"value": 66.419 
+},
+{
+ "code": "91547",
+"nom": "Saint-Escobille",
+"value":  41.29 
+},
+{
+ "code": "91549",
+"nom": "Sainte-Genevieve-des-Bois",
+"value": 116.13 
+},
+{
+ "code": "91552",
+"nom": "Saint-Germain-les-Arpajon",
+"value": 94.935 
+},
+{
+ "code": "91553",
+"nom": "Saint-Germain-les-Corbeil",
+"value": 94.285 
+},
+{
+ "code": "91556",
+"nom": "Saint-Hilaire",
+"value": 88.475 
+},
+{
+ "code": "91560",
+"nom": "Saint-Jean-de-Beauregard",
+"value": 131.06 
+},
+{
+ "code": "91568",
+"nom": "Saint-Maurice-Montcouronne",
+"value": 91.769 
+},
+{
+ "code": "91570",
+"nom": "Saint-Michel-sur-Orge",
+"value": 113.81 
+},
+{
+ "code": "91573",
+"nom": "Saint-Pierre-du-Perray",
+"value": 84.304 
+},
+{
+ "code": "91577",
+"nom": "Saintry-sur-Seine",
+"value": 87.359 
+},
+{
+ "code": "91578",
+"nom": "Saint-Sulpice-de-Favieres",
+"value": 92.509 
+},
+{
+ "code": "91579",
+"nom": "Saint-Vrain",
+"value": 95.722 
+},
+{
+ "code": "91581",
+"nom": "Saint-Yon",
+"value": 89.429 
+},
+{
+ "code": "91587",
+"nom": "Saulx-les-Chartreux",
+"value": 140.63 
+},
+{
+ "code": "91589",
+"nom": "Savigny-sur-Orge",
+"value": 126.26 
+},
+{
+ "code": "91593",
+"nom": "Sermaise",
+"value": 83.912 
+},
+{
+ "code": "91599",
+"nom": "Soisy-sur-Ecole",
+"value":  95.07 
+},
+{
+ "code": "91600",
+"nom": "Soisy-sur-Seine",
+"value": 112.54 
+},
+{
+ "code": "91602",
+"nom": "Souzy-la-Briche",
+"value": 93.807 
+},
+{
+ "code": "91613",
+"nom": "Congerville-Thionville",
+"value": 52.365 
+},
+{
+ "code": "91617",
+"nom": "Tigery",
+"value": 102.61 
+},
+{
+ "code": "91619",
+"nom": "Torfou",
+"value": 89.339 
+},
+{
+ "code": "91629",
+"nom": "Valpuiseaux",
+"value": 113.87 
+},
+{
+ "code": "91630",
+"nom": "Le Val-Saint-Germain",
+"value": 82.237 
+},
+{
+ "code": "91631",
+"nom": "Varennes-Jarcy",
+"value": 124.33 
+},
+{
+ "code": "91634",
+"nom": "Vaugrigneuse",
+"value": 95.612 
+},
+{
+ "code": "91635",
+"nom": "Vauhallan",
+"value": 157.55 
+},
+{
+ "code": "91639",
+"nom": "Vayres-sur-Essonne",
+"value": 108.46 
+},
+{
+ "code": "91645",
+"nom": "Verrieres-le-Buisson",
+"value":  238.8 
+},
+{
+ "code": "91648",
+"nom": "Vert-le-Grand",
+"value": 97.711 
+},
+{
+ "code": "91649",
+"nom": "Vert-le-Petit",
+"value": 96.017 
+},
+{
+ "code": "91654",
+"nom": "Videlles",
+"value": 96.004 
+},
+{
+ "code": "91657",
+"nom": "Vigneux-sur-Seine",
+"value": 120.67 
+},
+{
+ "code": "91659",
+"nom": "Villabe",
+"value": 95.915 
+},
+{
+ "code": "91661",
+"nom": "Villebon-sur-Yvette",
+"value": 141.38 
+},
+{
+ "code": "91662",
+"nom": "Villeconin",
+"value": 94.948 
+},
+{
+ "code": "91665",
+"nom": "La Ville-du-Bois",
+"value": 130.75 
+},
+{
+ "code": "91666",
+"nom": "Villejust",
+"value": 136.52 
+},
+{
+ "code": "91667",
+"nom": "Villemoisson-sur-Orge",
+"value": 123.94 
+},
+{
+ "code": "91671",
+"nom": "Villeneuve-sur-Auvers",
+"value": 108.62 
+},
+{
+ "code": "91679",
+"nom": "Villiers-le-Bacle",
+"value": 123.01 
+},
+{
+ "code": "91685",
+"nom": "Villiers-sur-Orge",
+"value": 128.11 
+},
+{
+ "code": "91687",
+"nom": "Viry-Chatillon",
+"value": 117.79 
+},
+{
+ "code": "91689",
+"nom": "Wissous",
+"value": 164.62 
+},
+{
+ "code": "91691",
+"nom": "Yerres",
+"value": 134.39 
+},
+{
+ "code": "91692",
+"nom": "Les Ulis",
+"value": 135.08 
+},
+{
+ "code": "92002",
+"nom": "Antony",
+"value": 250.89 
+},
+{
+ "code": "92004",
+"nom": "Asnieres-sur-Seine",
+"value":   1046 
+},
+{
+ "code": "92007",
+"nom": "Bagneux",
+"value": 745.52 
+},
+{
+ "code": "92009",
+"nom": "Bois-Colombes",
+"value": 1008.5 
+},
+{
+ "code": "92012",
+"nom": "Boulogne-Billancourt",
+"value": 1039.3 
+},
+{
+ "code": "92014",
+"nom": "Bourg-la-Reine",
+"value": 498.76 
+},
+{
+ "code": "92019",
+"nom": "Chatenay-Malabry",
+"value": 364.17 
+},
+{
+ "code": "92020",
+"nom": "Chatillon",
+"value": 813.48 
+},
+{
+ "code": "92022",
+"nom": "Chaville",
+"value": 530.28 
+},
+{
+ "code": "92023",
+"nom": "Clamart",
+"value": 654.22 
+},
+{
+ "code": "92024",
+"nom": "Clichy",
+"value":   1182 
+},
+{
+ "code": "92025",
+"nom": "Colombes",
+"value": 859.63 
+},
+{
+ "code": "92026",
+"nom": "Courbevoie",
+"value": 1139.6 
+},
+{
+ "code": "92032",
+"nom": "Fontenay-aux-Roses",
+"value": 625.03 
+},
+{
+ "code": "92033",
+"nom": "Garches",
+"value": 748.75 
+},
+{
+ "code": "92035",
+"nom": "La Garenne-Colombes",
+"value": 1018.9 
+},
+{
+ "code": "92036",
+"nom": "Gennevilliers",
+"value": 800.42 
+},
+{
+ "code": "92040",
+"nom": "Issy-les-Moulineaux",
+"value": 1024.4 
+},
+{
+ "code": "92044",
+"nom": "Levallois-Perret",
+"value": 1252.7 
+},
+{
+ "code": "92046",
+"nom": "Malakoff",
+"value": 1008.2 
+},
+{
+ "code": "92047",
+"nom": "Marnes-la-Coquette",
+"value": 547.17 
+},
+{
+ "code": "92048",
+"nom": "Meudon",
+"value": 644.56 
+},
+{
+ "code": "92049",
+"nom": "Montrouge",
+"value":  977.2 
+},
+{
+ "code": "92050",
+"nom": "Nanterre",
+"value": 885.32 
+},
+{
+ "code": "92051",
+"nom": "Neuilly-sur-Seine",
+"value": 1267.2 
+},
+{
+ "code": "92060",
+"nom": "Le Plessis-Robinson",
+"value": 479.88 
+},
+{
+ "code": "92062",
+"nom": "Puteaux",
+"value": 1147.2 
+},
+{
+ "code": "92063",
+"nom": "Rueil-Malmaison",
+"value": 738.97 
+},
+{
+ "code": "92064",
+"nom": "Saint-Cloud",
+"value": 891.79 
+},
+{
+ "code": "92071",
+"nom": "Sceaux",
+"value": 470.56 
+},
+{
+ "code": "92072",
+"nom": "Sevres",
+"value": 741.42 
+},
+{
+ "code": "92073",
+"nom": "Suresnes",
+"value": 1056.3 
+},
+{
+ "code": "92075",
+"nom": "Vanves",
+"value": 1057.8 
+},
+{
+ "code": "92076",
+"nom": "Vaucresson",
+"value": 559.19 
+},
+{
+ "code": "92077",
+"nom": "Ville-d'Avray",
+"value": 558.31 
+},
+{
+ "code": "92078",
+"nom": "Villeneuve-la-Garenne",
+"value": 743.33 
+},
+{
+ "code": "93001",
+"nom": "Aubervilliers",
+"value": 754.78 
+},
+{
+ "code": "93005",
+"nom": "Aulnay-sous-Bois",
+"value": 139.13 
+},
+{
+ "code": "93006",
+"nom": "Bagnolet",
+"value": 728.97 
+},
+{
+ "code": "93007",
+"nom": "Le Blanc-Mesnil",
+"value": 214.94 
+},
+{
+ "code": "93008",
+"nom": "Bobigny",
+"value": 461.05 
+},
+{
+ "code": "93010",
+"nom": "Bondy",
+"value": 289.47 
+},
+{
+ "code": "93013",
+"nom": "Le Bourget",
+"value": 329.41 
+},
+{
+ "code": "93014",
+"nom": "Clichy-sous-Bois",
+"value": 138.79 
+},
+{
+ "code": "93015",
+"nom": "Coubron",
+"value": 96.539 
+},
+{
+ "code": "93027",
+"nom": "La Courneuve",
+"value": 479.14 
+},
+{
+ "code": "93029",
+"nom": "Drancy",
+"value": 339.63 
+},
+{
+ "code": "93030",
+"nom": "Dugny",
+"value": 264.92 
+},
+{
+ "code": "93031",
+"nom": "Epinay-sur-Seine",
+"value": 528.78 
+},
+{
+ "code": "93032",
+"nom": "Gagny",
+"value": 182.37 
+},
+{
+ "code": "93033",
+"nom": "Gournay-sur-Marne",
+"value": 152.36 
+},
+{
+ "code": "93039",
+"nom": "L'Ile-Saint-Denis",
+"value": 696.75 
+},
+{
+ "code": "93045",
+"nom": "Les Lilas",
+"value": 716.76 
+},
+{
+ "code": "93046",
+"nom": "Livry-Gargan",
+"value": 132.16 
+},
+{
+ "code": "93047",
+"nom": "Montfermeil",
+"value": 127.01 
+},
+{
+ "code": "93048",
+"nom": "Montreuil",
+"value": 565.92 
+},
+{
+ "code": "93049",
+"nom": "Neuilly-Plaisance",
+"value": 285.85 
+},
+{
+ "code": "93050",
+"nom": "Neuilly-sur-Marne",
+"value": 213.25 
+},
+{
+ "code": "93051",
+"nom": "Noisy-le-Grand",
+"value":  173.7 
+},
+{
+ "code": "93053",
+"nom": "Noisy-le-Sec",
+"value":  435.6 
+},
+{
+ "code": "93055",
+"nom": "Pantin",
+"value":  705.8 
+},
+{
+ "code": "93057",
+"nom": "Les Pavillons-sous-Bois",
+"value": 214.95 
+},
+{
+ "code": "93059",
+"nom": "Pierrefitte-sur-Seine",
+"value": 366.14 
+},
+{
+ "code": "93061",
+"nom": "Le Pre-Saint-Gervais",
+"value": 808.25 
+},
+{
+ "code": "93062",
+"nom": "Le Raincy",
+"value": 205.96 
+},
+{
+ "code": "93063",
+"nom": "Romainville",
+"value": 582.64 
+},
+{
+ "code": "93064",
+"nom": "Rosny-sous-Bois",
+"value": 357.75 
+},
+{
+ "code": "93066",
+"nom": "Saint-Denis",
+"value": 706.95 
+},
+{
+ "code": "93070",
+"nom": "Saint-Ouen",
+"value": 1057.5 
+},
+{
+ "code": "93071",
+"nom": "Sevran",
+"value": 106.87 
+},
+{
+ "code": "93072",
+"nom": "Stains",
+"value":  335.8 
+},
+{
+ "code": "93073",
+"nom": "Tremblay-en-France",
+"value": 66.832 
+},
+{
+ "code": "93074",
+"nom": "Vaujours",
+"value":  80.93 
+},
+{
+ "code": "93077",
+"nom": "Villemomble",
+"value": 259.88 
+},
+{
+ "code": "93078",
+"nom": "Villepinte",
+"value": 83.024 
+},
+{
+ "code": "93079",
+"nom": "Villetaneuse",
+"value": 446.25 
+},
+{
+ "code": "94001",
+"nom": "Ablon-sur-Seine",
+"value": 129.94 
+},
+{
+ "code": "94002",
+"nom": "Alfortville",
+"value": 413.24 
+},
+{
+ "code": "94003",
+"nom": "Arcueil",
+"value": 815.32 
+},
+{
+ "code": "94004",
+"nom": "Boissy-Saint-Leger",
+"value": 152.37 
+},
+{
+ "code": "94011",
+"nom": "Bonneuil-sur-Marne",
+"value":  203.5 
+},
+{
+ "code": "94015",
+"nom": "Bry-sur-Marne",
+"value": 251.54 
+},
+{
+ "code": "94016",
+"nom": "Cachan",
+"value": 626.04 
+},
+{
+ "code": "94017",
+"nom": "Champigny-sur-Marne",
+"value": 243.93 
+},
+{
+ "code": "94018",
+"nom": "Charenton-le-Pont",
+"value": 677.01 
+},
+{
+ "code": "94019",
+"nom": "Chennevieres-sur-Marne",
+"value":  185.8 
+},
+{
+ "code": "94021",
+"nom": "Chevilly-Larue",
+"value": 322.65 
+},
+{
+ "code": "94022",
+"nom": "Choisy-le-Roi",
+"value": 227.02 
+},
+{
+ "code": "94028",
+"nom": "Creteil",
+"value": 269.33 
+},
+{
+ "code": "94033",
+"nom": "Fontenay-sous-Bois",
+"value":  424.8 
+},
+{
+ "code": "94034",
+"nom": "Fresnes",
+"value": 279.66 
+},
+{
+ "code": "94037",
+"nom": "Gentilly",
+"value":  881.5 
+},
+{
+ "code": "94038",
+"nom": "L'Hay-les-Roses",
+"value": 433.21 
+},
+{
+ "code": "94041",
+"nom": "Ivry-sur-Seine",
+"value": 691.07 
+},
+{
+ "code": "94042",
+"nom": "Joinville-le-Pont",
+"value": 369.67 
+},
+{
+ "code": "94043",
+"nom": "Le Kremlin-Bicetre",
+"value": 786.29 
+},
+{
+ "code": "94044",
+"nom": "Limeil-Brevannes",
+"value": 157.18 
+},
+{
+ "code": "94046",
+"nom": "Maisons-Alfort",
+"value": 425.28 
+},
+{
+ "code": "94047",
+"nom": "Mandres-les-Roses",
+"value": 132.35 
+},
+{
+ "code": "94048",
+"nom": "Marolles-en-Brie",
+"value": 137.55 
+},
+{
+ "code": "94052",
+"nom": "Nogent-sur-Marne",
+"value": 372.76 
+},
+{
+ "code": "94053",
+"nom": "Noiseau",
+"value":  153.3 
+},
+{
+ "code": "94054",
+"nom": "Orly",
+"value": 162.98 
+},
+{
+ "code": "94055",
+"nom": "Ormesson-sur-Marne",
+"value": 177.42 
+},
+{
+ "code": "94056",
+"nom": "Perigny",
+"value": 129.51 
+},
+{
+ "code": "94058",
+"nom": "Le Perreux-sur-Marne",
+"value": 304.17 
+},
+{
+ "code": "94059",
+"nom": "Le Plessis-Trevise",
+"value": 147.37 
+},
+{
+ "code": "94060",
+"nom": "La Queue-en-Brie",
+"value": 127.42 
+},
+{
+ "code": "94065",
+"nom": "Rungis",
+"value": 213.63 
+},
+{
+ "code": "94067",
+"nom": "Saint-Mande",
+"value":  719.5 
+},
+{
+ "code": "94068",
+"nom": "Saint-Maur-des-Fosses",
+"value": 254.01 
+},
+{
+ "code": "94069",
+"nom": "Saint-Maurice",
+"value": 498.26 
+},
+{
+ "code": "94070",
+"nom": "Santeny",
+"value": 127.78 
+},
+{
+ "code": "94071",
+"nom": "Sucy-en-Brie",
+"value": 164.14 
+},
+{
+ "code": "94073",
+"nom": "Thiais",
+"value": 240.36 
+},
+{
+ "code": "94074",
+"nom": "Valenton",
+"value": 171.97 
+},
+{
+ "code": "94075",
+"nom": "Villecresnes",
+"value":  137.5 
+},
+{
+ "code": "94076",
+"nom": "Villejuif",
+"value": 573.35 
+},
+{
+ "code": "94077",
+"nom": "Villeneuve-le-Roi",
+"value": 138.72 
+},
+{
+ "code": "94078",
+"nom": "Villeneuve-Saint-Georges",
+"value": 152.63 
+},
+{
+ "code": "94079",
+"nom": "Villiers-sur-Marne",
+"value": 201.52 
+},
+{
+ "code": "94080",
+"nom": "Vincennes",
+"value": 614.85 
+},
+{
+ "code": "94081",
+"nom": "Vitry-sur-Seine",
+"value": 428.27 
+},
+{
+ "code": "95002",
+"nom": "Ableiges",
+"value": 136.25 
+},
+{
+ "code": "95008",
+"nom": "Aincourt",
+"value": 57.421 
+},
+{
+ "code": "95011",
+"nom": "Ambleville",
+"value": 31.713 
+},
+{
+ "code": "95012",
+"nom": "Amenucourt",
+"value": 24.924 
+},
+{
+ "code": "95014",
+"nom": "Andilly",
+"value": 194.65 
+},
+{
+ "code": "95018",
+"nom": "Argenteuil",
+"value": 525.35 
+},
+{
+ "code": "95019",
+"nom": "Arnouville",
+"value": 163.59 
+},
+{
+ "code": "95023",
+"nom": "Arronville",
+"value": 47.775 
+},
+{
+ "code": "95024",
+"nom": "Arthies",
+"value":  69.84 
+},
+{
+ "code": "95026",
+"nom": "Asnieres-sur-Oise",
+"value": 72.889 
+},
+{
+ "code": "95028",
+"nom": "Attainville",
+"value": 123.65 
+},
+{
+ "code": "95039",
+"nom": "Auvers-sur-Oise",
+"value": 126.11 
+},
+{
+ "code": "95040",
+"nom": "Avernes",
+"value": 108.24 
+},
+{
+ "code": "95042",
+"nom": "Baillet-en-France",
+"value": 129.84 
+},
+{
+ "code": "95046",
+"nom": "Banthelu",
+"value": 73.324 
+},
+{
+ "code": "95051",
+"nom": "Beauchamp",
+"value": 174.88 
+},
+{
+ "code": "95052",
+"nom": "Beaumont-sur-Oise",
+"value":  91.69 
+},
+{
+ "code": "95054",
+"nom": "Le Bellay-en-Vexin",
+"value":  70.43 
+},
+{
+ "code": "95055",
+"nom": "Bellefontaine",
+"value": 93.271 
+},
+{
+ "code": "95056",
+"nom": "Belloy-en-France",
+"value": 109.24 
+},
+{
+ "code": "95058",
+"nom": "Bernes-sur-Oise",
+"value": 69.568 
+},
+{
+ "code": "95059",
+"nom": "Berville",
+"value": 35.336 
+},
+{
+ "code": "95060",
+"nom": "Bessancourt",
+"value": 149.81 
+},
+{
+ "code": "95061",
+"nom": "Bethemont-la-Foret",
+"value": 139.92 
+},
+{
+ "code": "95063",
+"nom": "Bezons",
+"value": 672.75 
+},
+{
+ "code": "95074",
+"nom": "Boisemont",
+"value": 122.11 
+},
+{
+ "code": "95078",
+"nom": "Boissy-l'Aillerie",
+"value": 131.53 
+},
+{
+ "code": "95088",
+"nom": "Bonneuil-en-France",
+"value":  185.1 
+},
+{
+ "code": "95091",
+"nom": "Bouffemont",
+"value": 142.03 
+},
+{
+ "code": "95094",
+"nom": "Bouqueval",
+"value": 133.26 
+},
+{
+ "code": "95101",
+"nom": "Bray-et-Lu",
+"value": 23.728 
+},
+{
+ "code": "95102",
+"nom": "Breancon",
+"value": 80.267 
+},
+{
+ "code": "95110",
+"nom": "Brignancourt",
+"value": 92.373 
+},
+{
+ "code": "95116",
+"nom": "Bruyeres-sur-Oise",
+"value":  68.75 
+},
+{
+ "code": "95119",
+"nom": "Buhy",
+"value": 24.733 
+},
+{
+ "code": "95120",
+"nom": "Butry-sur-Oise",
+"value": 124.73 
+},
+{
+ "code": "95127",
+"nom": "Cergy",
+"value":  127.6 
+},
+{
+ "code": "95134",
+"nom": "Champagne-sur-Oise",
+"value": 95.313 
+},
+{
+ "code": "95139",
+"nom": "La Chapelle-en-Vexin",
+"value": 32.552 
+},
+{
+ "code": "95141",
+"nom": "Charmont",
+"value": 62.231 
+},
+{
+ "code": "95142",
+"nom": "Chars",
+"value": 69.078 
+},
+{
+ "code": "95144",
+"nom": "Chatenay-en-France",
+"value": 111.23 
+},
+{
+ "code": "95149",
+"nom": "Chaumontel",
+"value": 67.203 
+},
+{
+ "code": "95150",
+"nom": "Chaussy",
+"value": 35.823 
+},
+{
+ "code": "95151",
+"nom": "Chauvry",
+"value": 139.21 
+},
+{
+ "code": "95154",
+"nom": "Chennevieres-les-Louvres",
+"value": 79.139 
+},
+{
+ "code": "95157",
+"nom": "Cherence",
+"value": 32.147 
+},
+{
+ "code": "95166",
+"nom": "Clery-en-Vexin",
+"value": 79.557 
+},
+{
+ "code": "95169",
+"nom": "Commeny",
+"value": 94.205 
+},
+{
+ "code": "95170",
+"nom": "Condecourt",
+"value":  125.5 
+},
+{
+ "code": "95176",
+"nom": "Cormeilles-en-Parisis",
+"value":  316.8 
+},
+{
+ "code": "95177",
+"nom": "Cormeilles-en-Vexin",
+"value": 113.19 
+},
+{
+ "code": "95181",
+"nom": "Courcelles-sur-Viosne",
+"value": 139.68 
+},
+{
+ "code": "95183",
+"nom": "Courdimanche",
+"value": 132.48 
+},
+{
+ "code": "95197",
+"nom": "Deuil-la-Barre",
+"value": 358.45 
+},
+{
+ "code": "95199",
+"nom": "Domont",
+"value": 149.71 
+},
+{
+ "code": "95203",
+"nom": "Eaubonne",
+"value": 262.67 
+},
+{
+ "code": "95205",
+"nom": "Ecouen",
+"value":  146.6 
+},
+{
+ "code": "95210",
+"nom": "Enghien-les-Bains",
+"value": 389.26 
+},
+{
+ "code": "95211",
+"nom": "Ennery",
+"value": 126.37 
+},
+{
+ "code": "95212",
+"nom": "Epiais-les-Louvres",
+"value":  77.33 
+},
+{
+ "code": "95213",
+"nom": "Epiais-Rhus",
+"value": 96.021 
+},
+{
+ "code": "95214",
+"nom": "Epinay-Champlatreux",
+"value": 108.62 
+},
+{
+ "code": "95218",
+"nom": "Eragny",
+"value":  131.3 
+},
+{
+ "code": "95219",
+"nom": "Ermont",
+"value":  272.7 
+},
+{
+ "code": "95229",
+"nom": "Ezanville",
+"value": 138.68 
+},
+{
+ "code": "95241",
+"nom": "Fontenay-en-Parisis",
+"value": 122.65 
+},
+{
+ "code": "95250",
+"nom": "Fosses",
+"value": 77.638 
+},
+{
+ "code": "95252",
+"nom": "Franconville",
+"value": 255.58 
+},
+{
+ "code": "95253",
+"nom": "Fremainville",
+"value": 109.72 
+},
+{
+ "code": "95254",
+"nom": "Fremecourt",
+"value": 108.87 
+},
+{
+ "code": "95256",
+"nom": "Frepillon",
+"value": 140.42 
+},
+{
+ "code": "95257",
+"nom": "La Frette-sur-Seine",
+"value": 256.84 
+},
+{
+ "code": "95258",
+"nom": "Frouville",
+"value": 66.777 
+},
+{
+ "code": "95259",
+"nom": "Gadancourt",
+"value": 100.08 
+},
+{
+ "code": "95268",
+"nom": "Garges-les-Gonesse",
+"value":    219 
+},
+{
+ "code": "95270",
+"nom": "Genainville",
+"value": 53.272 
+},
+{
+ "code": "95271",
+"nom": "Genicourt",
+"value": 119.54 
+},
+{
+ "code": "95277",
+"nom": "Gonesse",
+"value": 126.22 
+},
+{
+ "code": "95280",
+"nom": "Goussainville",
+"value": 112.25 
+},
+{
+ "code": "95282",
+"nom": "Gouzangrez",
+"value": 110.18 
+},
+{
+ "code": "95287",
+"nom": "Grisy-les-Platres",
+"value": 91.304 
+},
+{
+ "code": "95288",
+"nom": "Groslay",
+"value": 242.74 
+},
+{
+ "code": "95295",
+"nom": "Guiry-en-Vexin",
+"value": 91.567 
+},
+{
+ "code": "95298",
+"nom": "Haravilliers",
+"value": 53.325 
+},
+{
+ "code": "95301",
+"nom": "Haute-Isle",
+"value": 32.798 
+},
+{
+ "code": "95303",
+"nom": "Le Heaulme",
+"value": 63.734 
+},
+{
+ "code": "95304",
+"nom": "Hedouville",
+"value": 73.124 
+},
+{
+ "code": "95306",
+"nom": "Herblay",
+"value": 170.95 
+},
+{
+ "code": "95308",
+"nom": "Herouville",
+"value": 111.19 
+},
+{
+ "code": "95309",
+"nom": "Hodent",
+"value": 53.229 
+},
+{
+ "code": "95313",
+"nom": "L'Isle-Adam",
+"value":    120 
+},
+{
+ "code": "95316",
+"nom": "Jagny-sous-Bois",
+"value": 109.23 
+},
+{
+ "code": "95323",
+"nom": "Jouy-le-Moutier",
+"value": 119.28 
+},
+{
+ "code": "95328",
+"nom": "Labbeville",
+"value": 87.805 
+},
+{
+ "code": "95331",
+"nom": "Lassy",
+"value": 99.929 
+},
+{
+ "code": "95341",
+"nom": "Livilliers",
+"value": 113.32 
+},
+{
+ "code": "95348",
+"nom": "Longuesse",
+"value": 129.45 
+},
+{
+ "code": "95351",
+"nom": "Louvres",
+"value": 94.378 
+},
+{
+ "code": "95352",
+"nom": "Luzarches",
+"value": 79.978 
+},
+{
+ "code": "95353",
+"nom": "Maffliers",
+"value": 121.19 
+},
+{
+ "code": "95355",
+"nom": "Magny-en-Vexin",
+"value": 55.908 
+},
+{
+ "code": "95365",
+"nom": "Mareil-en-France",
+"value":    122 
+},
+{
+ "code": "95369",
+"nom": "Margency",
+"value": 219.41 
+},
+{
+ "code": "95370",
+"nom": "Marines",
+"value": 84.837 
+},
+{
+ "code": "95371",
+"nom": "Marly-la-Ville",
+"value": 85.667 
+},
+{
+ "code": "95379",
+"nom": "Maudetour-en-Vexin",
+"value": 61.648 
+},
+{
+ "code": "95387",
+"nom": "Menouville",
+"value": 67.724 
+},
+{
+ "code": "95388",
+"nom": "Menucourt",
+"value": 126.28 
+},
+{
+ "code": "95392",
+"nom": "Meriel",
+"value": 128.23 
+},
+{
+ "code": "95394",
+"nom": "Mery-sur-Oise",
+"value": 136.04 
+},
+{
+ "code": "95395",
+"nom": "Le Mesnil-Aubry",
+"value": 131.83 
+},
+{
+ "code": "95409",
+"nom": "Moisselles",
+"value": 132.55 
+},
+{
+ "code": "95422",
+"nom": "Montgeroult",
+"value": 132.13 
+},
+{
+ "code": "95424",
+"nom": "Montigny-les-Cormeilles",
+"value": 217.18 
+},
+{
+ "code": "95426",
+"nom": "Montlignon",
+"value": 184.86 
+},
+{
+ "code": "95427",
+"nom": "Montmagny",
+"value": 336.33 
+},
+{
+ "code": "95428",
+"nom": "Montmorency",
+"value": 241.08 
+},
+{
+ "code": "95429",
+"nom": "Montreuil-sur-Epte",
+"value": 25.924 
+},
+{
+ "code": "95430",
+"nom": "Montsoult",
+"value": 125.46 
+},
+{
+ "code": "95436",
+"nom": "Mours",
+"value":  104.4 
+},
+{
+ "code": "95438",
+"nom": "Moussy",
+"value": 91.179 
+},
+{
+ "code": "95445",
+"nom": "Nerville-la-Foret",
+"value": 126.49 
+},
+{
+ "code": "95446",
+"nom": "Nesles-la-Vallee",
+"value": 100.67 
+},
+{
+ "code": "95447",
+"nom": "Neuilly-en-Vexin",
+"value": 55.371 
+},
+{
+ "code": "95450",
+"nom": "Neuville-sur-Oise",
+"value":  122.3 
+},
+{
+ "code": "95452",
+"nom": "Nointel",
+"value": 102.36 
+},
+{
+ "code": "95456",
+"nom": "Noisy-sur-Oise",
+"value": 91.691 
+},
+{
+ "code": "95459",
+"nom": "Nucourt",
+"value": 58.657 
+},
+{
+ "code": "95462",
+"nom": "Omerville",
+"value": 41.287 
+},
+{
+ "code": "95476",
+"nom": "Osny",
+"value": 130.57 
+},
+{
+ "code": "95480",
+"nom": "Parmain",
+"value": 107.87 
+},
+{
+ "code": "95483",
+"nom": "Le Perchay",
+"value": 112.66 
+},
+{
+ "code": "95487",
+"nom": "Persan",
+"value": 86.919 
+},
+{
+ "code": "95488",
+"nom": "Pierrelaye",
+"value": 156.75 
+},
+{
+ "code": "95489",
+"nom": "Piscop",
+"value": 163.82 
+},
+{
+ "code": "95491",
+"nom": "Le Plessis-Bouchard",
+"value": 212.49 
+},
+{
+ "code": "95492",
+"nom": "Le Plessis-Gassot",
+"value": 136.59 
+},
+{
+ "code": "95493",
+"nom": "Le Plessis-Luzarches",
+"value": 95.101 
+},
+{
+ "code": "95500",
+"nom": "Pontoise",
+"value": 130.32 
+},
+{
+ "code": "95504",
+"nom": "Presles",
+"value": 116.03 
+},
+{
+ "code": "95509",
+"nom": "Puiseux-en-France",
+"value":  99.21 
+},
+{
+ "code": "95510",
+"nom": "Puiseux-Pontoise",
+"value": 138.33 
+},
+{
+ "code": "95523",
+"nom": "La Roche-Guyon",
+"value": 30.813 
+},
+{
+ "code": "95527",
+"nom": "Roissy-en-France",
+"value": 84.915 
+},
+{
+ "code": "95529",
+"nom": "Ronquerolles",
+"value": 71.875 
+},
+{
+ "code": "95535",
+"nom": "Sagy",
+"value": 135.72 
+},
+{
+ "code": "95539",
+"nom": "Saint-Brice-sous-Foret",
+"value":    188 
+},
+{
+ "code": "95541",
+"nom": "Saint-Clair-sur-Epte",
+"value": 18.359 
+},
+{
+ "code": "95543",
+"nom": "Saint-Cyr-en-Arthies",
+"value": 47.925 
+},
+{
+ "code": "95554",
+"nom": "Saint-Gervais",
+"value": 44.561 
+},
+{
+ "code": "95555",
+"nom": "Saint-Gratien",
+"value": 405.36 
+},
+{
+ "code": "95563",
+"nom": "Saint-Leu-la-Foret",
+"value": 177.62 
+},
+{
+ "code": "95566",
+"nom": "Saint-Martin-du-Tertre",
+"value": 110.29 
+},
+{
+ "code": "95572",
+"nom": "Saint-Ouen-l'Aumone",
+"value": 135.45 
+},
+{
+ "code": "95574",
+"nom": "Saint-Prix",
+"value": 175.24 
+},
+{
+ "code": "95580",
+"nom": "Saint-Witz",
+"value": 67.726 
+},
+{
+ "code": "95582",
+"nom": "Sannois",
+"value": 366.97 
+},
+{
+ "code": "95584",
+"nom": "Santeuil",
+"value": 104.46 
+},
+{
+ "code": "95585",
+"nom": "Sarcelles",
+"value": 190.47 
+},
+{
+ "code": "95592",
+"nom": "Seraincourt",
+"value": 110.18 
+},
+{
+ "code": "95594",
+"nom": "Seugy",
+"value":  83.55 
+},
+{
+ "code": "95598",
+"nom": "Soisy-sous-Montmorency",
+"value": 269.72 
+},
+{
+ "code": "95604",
+"nom": "Survilliers",
+"value": 58.172 
+},
+{
+ "code": "95607",
+"nom": "Taverny",
+"value": 165.19 
+},
+{
+ "code": "95610",
+"nom": "Themericourt",
+"value":  121.7 
+},
+{
+ "code": "95611",
+"nom": "Theuville",
+"value": 67.379 
+},
+{
+ "code": "95612",
+"nom": "Le Thillay",
+"value": 110.44 
+},
+{
+ "code": "95625",
+"nom": "Us",
+"value": 125.33 
+},
+{
+ "code": "95627",
+"nom": "Vallangoujard",
+"value": 85.824 
+},
+{
+ "code": "95628",
+"nom": "Valmondois",
+"value": 118.91 
+},
+{
+ "code": "95633",
+"nom": "Vaudherland",
+"value": 99.655 
+},
+{
+ "code": "95637",
+"nom": "Vaureal",
+"value":  125.5 
+},
+{
+ "code": "95641",
+"nom": "Vemars",
+"value": 70.412 
+},
+{
+ "code": "95651",
+"nom": "Vetheuil",
+"value": 41.892 
+},
+{
+ "code": "95652",
+"nom": "Viarmes",
+"value": 88.004 
+},
+{
+ "code": "95656",
+"nom": "Vienne-en-Arthies",
+"value": 42.427 
+},
+{
+ "code": "95658",
+"nom": "Vigny",
+"value": 130.61 
+},
+{
+ "code": "95660",
+"nom": "Villaines-sous-Bois",
+"value": 117.46 
+},
+{
+ "code": "95675",
+"nom": "Villeron",
+"value": 82.011 
+},
+{
+ "code": "95676",
+"nom": "Villers-en-Arthies",
+"value": 42.109 
+},
+{
+ "code": "95678",
+"nom": "Villiers-Adam",
+"value": 132.56 
+},
+{
+ "code": "95680",
+"nom": "Villiers-le-Bel",
+"value": 150.64 
+},
+{
+ "code": "95682",
+"nom": "Villiers-le-Sec",
+"value": 119.51 
+},
+{
+ "code": "95690",
+"nom": "Wy-dit-Joli-Village",
+"value": 83.823 
+} 
+]

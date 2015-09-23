@@ -1,0 +1,92 @@
+{
+ "noms": "params",
+"Indicators": [
+ {
+ "id": "P09_POP",
+"label": "Total Population",
+"units": "inhabitants",
+"year": 2011 
+},
+{
+ "id": "P09_POP0014",
+"label": "0-14 years old population",
+"units": "inhabitants",
+"year": 2011 
+},
+{
+ "id": "P09_POP1529",
+"label": "15-29 years old population",
+"units": "inhabitants",
+"year": 2011 
+},
+{
+ "id": "P09_POP3044",
+"label": "30-34 years old population",
+"units": "inhabitants",
+"year": 2011 
+},
+{
+ "id": "P09_POP4559",
+"label": "45-59 years old population",
+"units": "inhabitants",
+"year": 2011 
+},
+{
+ "id": "P09_POP6074",
+"label": "60-74 years old population",
+"units": "inhabitants",
+"year": 2011 
+},
+{
+ "id": "P09_POP75P",
+"label": "75 and more population",
+"units": "inhabitants",
+"year": 2011 
+} 
+],
+"Accessibility": [
+ {
+ "id": "ACC_0.005",
+"label": "0.5 %" 
+},
+{
+ "id": "ACC_0.01",
+"label": "1 %" 
+},
+{
+ "id": "ACC_0.05",
+"label": "5 %" 
+} 
+],
+"Mode": [
+ {
+ "id": "AsTheCowRolls",
+"label": "Car Time",
+"order":      2,
+"potentials": [
+ [
+ {
+ "id": "POT_0",
+"label": "0 minutes" 
+},
+{
+ "id": "POT_5",
+"label": "5 minutes" 
+},
+{
+ "id": "POT_10",
+"label": "10 minutes" 
+},
+{
+ "id": "POT_15",
+"label": "15 minutes" 
+},
+{
+ "id": "POT_20",
+"label": "20 minutes" 
+} 
+] 
+] 
+} 
+] 
+}
