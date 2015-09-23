@@ -1,0 +1,1317 @@
+[
+ {
+ "code": "TS1110",
+"nom": "Carthage ",
+"value": 20715 
+},
+{
+ "code": "TS1111",
+"nom": "La Medina ",
+"value": 26703 
+},
+{
+ "code": "TS1112",
+"nom": "Bab El Bhar ",
+"value": 39806 
+},
+{
+ "code": "TS1113",
+"nom": "Bab Souika ",
+"value": 33284 
+},
+{
+ "code": "TS1114",
+"nom": "El Omrane ",
+"value": 40801 
+},
+{
+ "code": "TS1115",
+"nom": "El Omrane Supérieur ",
+"value": 62138 
+},
+{
+ "code": "TS1116",
+"nom": "Ettahrir ",
+"value": 21956 
+},
+{
+ "code": "TS1117",
+"nom": "El Menzah ",
+"value": 43320 
+},
+{
+ "code": "TS1118",
+"nom": "Cité El Khadhra ",
+"value": 36818 
+},
+{
+ "code": "TS1119",
+"nom": "Le Bardo ",
+"value": 70244 
+},
+{
+ "code": "TS111A",
+"nom": "Sijoumi ",
+"value": 36171 
+},
+{
+ "code": "TS111B",
+"nom": "Ezzouhour ",
+"value": 40434 
+},
+{
+ "code": "TS111C",
+"nom": "El Hrairia ",
+"value": 96245 
+},
+{
+ "code": "TS111D",
+"nom": "Sidi Hassine ",
+"value": 79381 
+},
+{
+ "code": "TS111E",
+"nom": "El Ouardia ",
+"value": 33734 
+},
+{
+ "code": "TS111F",
+"nom": "El Kabaria ",
+"value": 81261 
+},
+{
+ "code": "TS111G",
+"nom": "Sidi El Béchir ",
+"value": 29911 
+},
+{
+ "code": "TS111H",
+"nom": "Djebel Djelloud ",
+"value": 26490 
+},
+{
+ "code": "TS111I",
+"nom": "La Goulette ",
+"value": 28407 
+},
+{
+ "code": "TS111J",
+"nom": "Le Kram ",
+"value": 58152 
+},
+{
+ "code": "TS111K",
+"nom": "La Marsa ",
+"value": 77890 
+},
+{
+ "code": "TS1120",
+"nom": "L Ariana Ville  ",
+"value": 97687 
+},
+{
+ "code": "TS1121",
+"nom": "Soukra ",
+"value": 89151 
+},
+{
+ "code": "TS1122",
+"nom": "Raoued ",
+"value": 60896 
+},
+{
+ "code": "TS1123",
+"nom": "Kalaât El Andalous ",
+"value": 23045 
+},
+{
+ "code": "TS1124",
+"nom": "Sidi Thabet ",
+"value": 19404 
+},
+{
+ "code": "TS1125",
+"nom": "Cité Ettadhamen ",
+"value": 78311 
+},
+{
+ "code": "TS1126",
+"nom": "El Mnihla ",
+"value": 53752 
+},
+{
+ "code": "TS1130",
+"nom": "Ben Arous  ",
+"value": 32329 
+},
+{
+ "code": "TS1131",
+"nom": "La Nouvelle Medina ",
+"value": 42603 
+},
+{
+ "code": "TS1132",
+"nom": "El Mourouj ",
+"value": 81986 
+},
+{
+ "code": "TS1133",
+"nom": "Hammam Lif ",
+"value": 38401 
+},
+{
+ "code": "TS1134",
+"nom": "Hammam Chôtt ",
+"value": 24847 
+},
+{
+ "code": "TS1135",
+"nom": "Bou Mhel El Bassatine ",
+"value": 27977 
+},
+{
+ "code": "TS1136",
+"nom": "Ezzahra ",
+"value": 31792 
+},
+{
+ "code": "TS1137",
+"nom": "Radès ",
+"value": 44857 
+},
+{
+ "code": "TS1138",
+"nom": "Megrine ",
+"value": 24031 
+},
+{
+ "code": "TS1139",
+"nom": "Mohamedia ",
+"value": 46613 
+},
+{
+ "code": "TS113A",
+"nom": "Fouchana ",
+"value": 56628 
+},
+{
+ "code": "TS113B",
+"nom": "Mornag ",
+"value": 53709 
+},
+{
+ "code": "TS1140",
+"nom": "Mannouba  ",
+"value": 51398 
+},
+{
+ "code": "TS1141",
+"nom": "Douar Hicher ",
+"value": 75959 
+},
+{
+ "code": "TS1142",
+"nom": "Oued Ellil ",
+"value": 58544 
+},
+{
+ "code": "TS1143",
+"nom": "Mornaguia ",
+"value": 35129 
+},
+{
+ "code": "TS1144",
+"nom": "Borj Amri ",
+"value": 16184 
+},
+{
+ "code": "TS1145",
+"nom": "Djedeida ",
+"value": 40327 
+},
+{
+ "code": "TS1146",
+"nom": "Tebourba ",
+"value": 41050 
+},
+{
+ "code": "TS1147",
+"nom": "El Battane ",
+"value": 17321 
+},
+{
+ "code": "TS1150",
+"nom": "Nabeul  ",
+"value": 59490 
+},
+{
+ "code": "TS1151",
+"nom": "Dar Châabane El Fehri ",
+"value": 39477 
+},
+{
+ "code": "TS1152",
+"nom": "Beni khiar ",
+"value": 35565 
+},
+{
+ "code": "TS1153",
+"nom": "Korba ",
+"value": 60564 
+},
+{
+ "code": "TS1154",
+"nom": "Menzel Temime ",
+"value": 59463 
+},
+{
+ "code": "TS1155",
+"nom": "El Mida ",
+"value": 23667 
+},
+{
+ "code": "TS1156",
+"nom": "Kelibia ",
+"value": 53648 
+},
+{
+ "code": "TS1157",
+"nom": "Hammam El Guezaz ",
+"value": 14324 
+},
+{
+ "code": "TS1158",
+"nom": "El Haouaria ",
+"value": 39378 
+},
+{
+ "code": "TS1159",
+"nom": "Takelsa ",
+"value": 20169 
+},
+{
+ "code": "TS115A",
+"nom": "Soliman ",
+"value": 41846 
+},
+{
+ "code": "TS115B",
+"nom": "Menzel Bouzelfa ",
+"value": 33599 
+},
+{
+ "code": "TS115C",
+"nom": "Beni Khalled ",
+"value": 33897 
+},
+{
+ "code": "TS115D",
+"nom": "Grombalia ",
+"value": 55489 
+},
+{
+ "code": "TS115E",
+"nom": "Bou Argoub ",
+"value": 27846 
+},
+{
+ "code": "TS115F",
+"nom": "Hammamet ",
+"value": 95468 
+},
+{
+ "code": "TS1160",
+"nom": "Zaghouan  ",
+"value": 34367 
+},
+{
+ "code": "TS1161",
+"nom": "Ez-Zeriba ",
+"value": 20765 
+},
+{
+ "code": "TS1162",
+"nom": "Bir Mchergua ",
+"value": 21508 
+},
+{
+ "code": "TS1163",
+"nom": "El Fahs ",
+"value": 43678 
+},
+{
+ "code": "TS1164",
+"nom": "En-Nadhour ",
+"value": 28550 
+},
+{
+ "code": "TS1165",
+"nom": "Saouaf ",
+"value": 12095 
+},
+{
+ "code": "TS1170",
+"nom": "Bizerte Nord  ",
+"value": 75234 
+},
+{
+ "code": "TS1171",
+"nom": "Zarzouna ",
+"value": 24428 
+},
+{
+ "code": "TS1172",
+"nom": "Bizerte Sud ",
+"value": 45227 
+},
+{
+ "code": "TS1173",
+"nom": "Sedjnane ",
+"value": 42156 
+},
+{
+ "code": "TS1174",
+"nom": "Djoumine ",
+"value": 35213 
+},
+{
+ "code": "TS1175",
+"nom": "Mateur ",
+"value": 47562 
+},
+{
+ "code": "TS1176",
+"nom": "Ghezala ",
+"value": 27799 
+},
+{
+ "code": "TS1177",
+"nom": "Menzel Bourguiba ",
+"value": 54804 
+},
+{
+ "code": "TS1178",
+"nom": "Tinja ",
+"value": 19444 
+},
+{
+ "code": "TS1179",
+"nom": "Utique ",
+"value": 18266 
+},
+{
+ "code": "TS117A",
+"nom": "Ghar El Meleh ",
+"value": 18525 
+},
+{
+ "code": "TS117B",
+"nom": "Menzel Djemil ",
+"value": 39691 
+},
+{
+ "code": "TS117C",
+"nom": "El Alia ",
+"value": 24539 
+},
+{
+ "code": "TS117D",
+"nom": "Ras Djebel ",
+"value": 51240 
+},
+{
+ "code": "TS1210",
+"nom": "Béja Nord  ",
+"value": 67471 
+},
+{
+ "code": "TS1211",
+"nom": "Béja Sud ",
+"value": 38396 
+},
+{
+ "code": "TS1212",
+"nom": "Amdoun ",
+"value": 22484 
+},
+{
+ "code": "TS1213",
+"nom": "Nefza ",
+"value": 53195 
+},
+{
+ "code": "TS1214",
+"nom": "Teboursouk ",
+"value": 24327 
+},
+{
+ "code": "TS1215",
+"nom": "Tibar ",
+"value": 10509 
+},
+{
+ "code": "TS1216",
+"nom": "Testour ",
+"value": 32772 
+},
+{
+ "code": "TS1217",
+"nom": "Goubellat ",
+"value": 16383 
+},
+{
+ "code": "TS1218",
+"nom": "Medjez El Bab ",
+"value": 38964 
+},
+{
+ "code": "TS1220",
+"nom": "Jendouba  ",
+"value": 68597 
+},
+{
+ "code": "TS1221",
+"nom": "Jendouba Nord ",
+"value": 44195 
+},
+{
+ "code": "TS1222",
+"nom": "Bou Salem ",
+"value": 36061 
+},
+{
+ "code": "TS1223",
+"nom": "Tabarka ",
+"value": 45494 
+},
+{
+ "code": "TS1224",
+"nom": "Ain Draham ",
+"value": 40372 
+},
+{
+ "code": "TS1225",
+"nom": "Fernana ",
+"value": 52690 
+},
+{
+ "code": "TS1226",
+"nom": "Ghardimaou ",
+"value": 67955 
+},
+{
+ "code": "TS1227",
+"nom": "Oued Meliz ",
+"value": 19015 
+},
+{
+ "code": "TS1228",
+"nom": "Balta - Bou Aouane ",
+"value": 42229 
+},
+{
+ "code": "TS1230",
+"nom": "Kef Ouest  ",
+"value": 29951 
+},
+{
+ "code": "TS1231",
+"nom": "Kef Est ",
+"value": 40456 
+},
+{
+ "code": "TS1232",
+"nom": "Nebeur ",
+"value": 28328 
+},
+{
+ "code": "TS1233",
+"nom": "Sakiet Sidi Youssef ",
+"value": 20527 
+},
+{
+ "code": "TS1234",
+"nom": "Tajerouine ",
+"value": 30659 
+},
+{
+ "code": "TS1235",
+"nom": "Kalâat Snan ",
+"value": 16454 
+},
+{
+ "code": "TS1236",
+"nom": "Kalâat Khasbah ",
+"value": 7353 
+},
+{
+ "code": "TS1237",
+"nom": "Djerissa ",
+"value": 11298 
+},
+{
+ "code": "TS1238",
+"nom": "El Ksour ",
+"value": 17100 
+},
+{
+ "code": "TS1239",
+"nom": "Dahmani ",
+"value": 30749 
+},
+{
+ "code": "TS123A",
+"nom": "Es-Sers ",
+"value": 25915 
+},
+{
+ "code": "TS1240",
+"nom": "Siliana Nord  ",
+"value": 26102 
+},
+{
+ "code": "TS1241",
+"nom": "Siliana Sud ",
+"value": 29286 
+},
+{
+ "code": "TS1242",
+"nom": "Bou Arada ",
+"value": 20877 
+},
+{
+ "code": "TS1243",
+"nom": "Gaâfour ",
+"value": 17963 
+},
+{
+ "code": "TS1244",
+"nom": "El Krib ",
+"value": 21546 
+},
+{
+ "code": "TS1245",
+"nom": "Bourouis ",
+"value": 15712 
+},
+{
+ "code": "TS1246",
+"nom": "Makthar ",
+"value": 31139 
+},
+{
+ "code": "TS1247",
+"nom": "Er-Rouhia ",
+"value": 29991 
+},
+{
+ "code": "TS1248",
+"nom": "Kesra ",
+"value": 17763 
+},
+{
+ "code": "TS1249",
+"nom": "Bargou ",
+"value": 13823 
+},
+{
+ "code": "TS124A",
+"nom": "El Aroussa ",
+"value": 9783 
+},
+{
+ "code": "TS2110",
+"nom": "Sousse Medina  ",
+"value": 29680 
+},
+{
+ "code": "TS2111",
+"nom": "Sousse Riadh ",
+"value": 65333 
+},
+{
+ "code": "TS2112",
+"nom": "Sousse Jawhara ",
+"value": 62663 
+},
+{
+ "code": "TS2113",
+"nom": "Sousse Sidi Abdelhamid ",
+"value": 46257 
+},
+{
+ "code": "TS2114",
+"nom": "Hammam Sousse ",
+"value": 34685 
+},
+{
+ "code": "TS2115",
+"nom": "Akouda ",
+"value": 25717 
+},
+{
+ "code": "TS2116",
+"nom": "Kalaâ Kebira ",
+"value": 51196 
+},
+{
+ "code": "TS2117",
+"nom": "Sidi Bou Ali ",
+"value": 17606 
+},
+{
+ "code": "TS2118",
+"nom": "Hergla ",
+"value": 7913 
+},
+{
+ "code": "TS2119",
+"nom": "Enfidha ",
+"value": 43426 
+},
+{
+ "code": "TS211A",
+"nom": "Bouficha ",
+"value": 23581 
+},
+{
+ "code": "TS211B",
+"nom": "Kondar ",
+"value": 11636 
+},
+{
+ "code": "TS211C",
+"nom": "Sidi El Héni ",
+"value": 11614 
+},
+{
+ "code": "TS211D",
+"nom": "M saken ",
+"value": 85380 
+},
+{
+ "code": "TS211E",
+"nom": "Kalaâ Seghira ",
+"value": 27726 
+},
+{
+ "code": "TS2120",
+"nom": "Monastir  ",
+"value": 81294 
+},
+{
+ "code": "TS2121",
+"nom": "Ouerdanine ",
+"value": 18852 
+},
+{
+ "code": "TS2122",
+"nom": "Sahline ",
+"value": 21799 
+},
+{
+ "code": "TS2123",
+"nom": "Zermadine ",
+"value": 25947 
+},
+{
+ "code": "TS2124",
+"nom": "Beni Hassen ",
+"value": 12650 
+},
+{
+ "code": "TS2125",
+"nom": "Jammel ",
+"value": 55272 
+},
+{
+ "code": "TS2126",
+"nom": "Bembla ",
+"value": 27382 
+},
+{
+ "code": "TS2127",
+"nom": "Moknine ",
+"value": 75885 
+},
+{
+ "code": "TS2128",
+"nom": "Bekalta ",
+"value": 13695 
+},
+{
+ "code": "TS2129",
+"nom": "Teboulba ",
+"value": 31154 
+},
+{
+ "code": "TS212A",
+"nom": "Ksar Helal ",
+"value": 39991 
+},
+{
+ "code": "TS212B",
+"nom": "Ksibet El Mediouni ",
+"value": 28722 
+},
+{
+ "code": "TS212C",
+"nom": "Sayada-Lamta Bou-Hjar ",
+"value": 22947 
+},
+{
+ "code": "TS2130",
+"nom": "Mahdia  ",
+"value": 71719 
+},
+{
+ "code": "TS2131",
+"nom": "Bou Merdès ",
+"value": 29559 
+},
+{
+ "code": "TS2132",
+"nom": "Ouled Chamekh ",
+"value": 22732 
+},
+{
+ "code": "TS2133",
+"nom": "Chorbane ",
+"value": 28577 
+},
+{
+ "code": "TS2134",
+"nom": "Hebira ",
+"value": 11057 
+},
+{
+ "code": "TS2135",
+"nom": "Essouassi ",
+"value": 46276 
+},
+{
+ "code": "TS2136",
+"nom": "El Djem ",
+"value": 41064 
+},
+{
+ "code": "TS2137",
+"nom": "Chebba ",
+"value": 23334 
+},
+{
+ "code": "TS2138",
+"nom": "Melloulech ",
+"value": 19464 
+},
+{
+ "code": "TS2139",
+"nom": "Sidi Alouane ",
+"value": 35272 
+},
+{
+ "code": "TS213A",
+"nom": "Ksour Essef ",
+"value": 48799 
+},
+{
+ "code": "TS2140",
+"nom": "Sfax Ville  ",
+"value": 105958 
+},
+{
+ "code": "TS2141",
+"nom": "Sfax Ouest ",
+"value": 104998 
+},
+{
+ "code": "TS2142",
+"nom": "Sakiet Ezzit ",
+"value": 72481 
+},
+{
+ "code": "TS2143",
+"nom": "Sakiet Eddaïer ",
+"value": 98988 
+},
+{
+ "code": "TS2144",
+"nom": "Sfax Sud ",
+"value": 101904 
+},
+{
+ "code": "TS2145",
+"nom": "Tina ",
+"value": 45647 
+},
+{
+ "code": "TS2146",
+"nom": "Agareb ",
+"value": 35841 
+},
+{
+ "code": "TS2147",
+"nom": "Djebeniana ",
+"value": 44029 
+},
+{
+ "code": "TS2148",
+"nom": "El Amra ",
+"value": 28723 
+},
+{
+ "code": "TS2149",
+"nom": "El Hencha ",
+"value": 43170 
+},
+{
+ "code": "TS214A",
+"nom": "Menzel Chaker ",
+"value": 34119 
+},
+{
+ "code": "TS214B",
+"nom": "Ghraiba ",
+"value": 14647 
+},
+{
+ "code": "TS214C",
+"nom": "Bir ali Ben Kelifa ",
+"value": 50059 
+},
+{
+ "code": "TS214D",
+"nom": "Skhira ",
+"value": 29616 
+},
+{
+ "code": "TS214E",
+"nom": "Mahres ",
+"value": 30676 
+},
+{
+ "code": "TS214F",
+"nom": "Kerkenah ",
+"value": 14400 
+},
+{
+ "code": "TS2210",
+"nom": "Kairouan Nord  ",
+"value": 83794 
+},
+{
+ "code": "TS2211",
+"nom": "Kairouan Sud ",
+"value": 80444 
+},
+{
+ "code": "TS2212",
+"nom": "Echebika ",
+"value": 33889 
+},
+{
+ "code": "TS2213",
+"nom": "Sbikha ",
+"value": 67315 
+},
+{
+ "code": "TS2214",
+"nom": "EL Ouslatia ",
+"value": 36195 
+},
+{
+ "code": "TS2215",
+"nom": "Haffouz ",
+"value": 43792 
+},
+{
+ "code": "TS2216",
+"nom": "El Alâa ",
+"value": 31773 
+},
+{
+ "code": "TS2217",
+"nom": "Hajeb el Ayoun ",
+"value": 35403 
+},
+{
+ "code": "TS2218",
+"nom": "Nasrallah ",
+"value": 37112 
+},
+{
+ "code": "TS2219",
+"nom": "Echrarda ",
+"value": 25903 
+},
+{
+ "code": "TS221A",
+"nom": "Bouhajla ",
+"value": 70589 
+},
+{
+ "code": "TS2220",
+"nom": "Kasserine Nord  ",
+"value": 58343 
+},
+{
+ "code": "TS2221",
+"nom": "Kasserine Sud ",
+"value": 21139 
+},
+{
+ "code": "TS2222",
+"nom": "Ezzouhour ",
+"value": 20277 
+},
+{
+ "code": "TS2223",
+"nom": "Hassi Ferid ",
+"value": 16890 
+},
+{
+ "code": "TS2224",
+"nom": "Sbeitla ",
+"value": 69539 
+},
+{
+ "code": "TS2225",
+"nom": "Sbiba ",
+"value": 42091 
+},
+{
+ "code": "TS2226",
+"nom": "Djedeliane ",
+"value": 13205 
+},
+{
+ "code": "TS2227",
+"nom": "El Ayoun ",
+"value": 18634 
+},
+{
+ "code": "TS2228",
+"nom": "Thala ",
+"value": 34508 
+},
+{
+ "code": "TS2229",
+"nom": "Hidra ",
+"value": 8716 
+},
+{
+ "code": "TS222A",
+"nom": "Foussana ",
+"value": 41240 
+},
+{
+ "code": "TS222B",
+"nom": "Feriana ",
+"value": 45787 
+},
+{
+ "code": "TS222C",
+"nom": "Majel Bel Abbès ",
+"value": 21909 
+},
+{
+ "code": "TS2230",
+"nom": "Sidi Bouzid Ouest  ",
+"value": 65761 
+},
+{
+ "code": "TS2231",
+"nom": "Sidi Bouzid Est ",
+"value": 48371 
+},
+{
+ "code": "TS2232",
+"nom": "Jilma ",
+"value": 36861 
+},
+{
+ "code": "TS2233",
+"nom": "Cebalet Ouled Asker ",
+"value": 18618 
+},
+{
+ "code": "TS2234",
+"nom": "Bir El Hafey ",
+"value": 33979 
+},
+{
+ "code": "TS2235",
+"nom": "Sidi Ali Ben Aoûn ",
+"value": 24896 
+},
+{
+ "code": "TS2236",
+"nom": "Menzel Bouzaïenne ",
+"value": 23668 
+},
+{
+ "code": "TS2237",
+"nom": "Meknassy ",
+"value": 22617 
+},
+{
+ "code": "TS2238",
+"nom": "Souk Jedid ",
+"value": 19210 
+},
+{
+ "code": "TS2239",
+"nom": "Mezzouna ",
+"value": 22839 
+},
+{
+ "code": "TS223A",
+"nom": "Regueb ",
+"value": 58776 
+},
+{
+ "code": "TS223B",
+"nom": "Ouled Haffouz ",
+"value": 19910 
+},
+{
+ "code": "TS3110",
+"nom": "Gabes Medina  ",
+"value": 47057 
+},
+{
+ "code": "TS3111",
+"nom": "Gabes Ouest ",
+"value": 28389 
+},
+{
+ "code": "TS3112",
+"nom": "Gabes Sud ",
+"value": 61699 
+},
+{
+ "code": "TS3113",
+"nom": "Ghanouch ",
+"value": 22681 
+},
+{
+ "code": "TS3114",
+"nom": "El Metouia ",
+"value": 25862 
+},
+{
+ "code": "TS3115",
+"nom": "Menzel El Habib ",
+"value": 11477 
+},
+{
+ "code": "TS3116",
+"nom": "El Hamma ",
+"value": 62390 
+},
+{
+ "code": "TS3117",
+"nom": "Matmata ",
+"value": 5766 
+},
+{
+ "code": "TS3118",
+"nom": "Nouvelle Matmata ",
+"value": 15969 
+},
+{
+ "code": "TS3119",
+"nom": "Mareth ",
+"value": 61340 
+},
+{
+ "code": "TS3120",
+"nom": "Medenine Nord  ",
+"value": 48102 
+},
+{
+ "code": "TS3121",
+"nom": "Medenine Sud ",
+"value": 48087 
+},
+{
+ "code": "TS3122",
+"nom": "Beni Khedech ",
+"value": 28586 
+},
+{
+ "code": "TS3123",
+"nom": "Ben Guerdane ",
+"value": 70907 
+},
+{
+ "code": "TS3124",
+"nom": "Zarzis ",
+"value": 73549 
+},
+{
+ "code": "TS3125",
+"nom": "Djerba Houmet Souk ",
+"value": 64919 
+},
+{
+ "code": "TS3126",
+"nom": "Djerba Midoun ",
+"value": 50459 
+},
+{
+ "code": "TS3127",
+"nom": "Djerba Ajim ",
+"value": 24166 
+},
+{
+ "code": "TS3128",
+"nom": "Sidi Makhloulf ",
+"value": 23728 
+},
+{
+ "code": "TS3130",
+"nom": "Tataouine Nord  ",
+"value": 54362 
+},
+{
+ "code": "TS3131",
+"nom": "Tataouine Sud ",
+"value": 33783 
+},
+{
+ "code": "TS3132",
+"nom": "Smâr ",
+"value": 13826 
+},
+{
+ "code": "TS3133",
+"nom": "Bir Lahmar ",
+"value": 9270 
+},
+{
+ "code": "TS3134",
+"nom": "Ghomrassen ",
+"value": 18335 
+},
+{
+ "code": "TS3135",
+"nom": "Dhehiba ",
+"value": 3971 
+},
+{
+ "code": "TS3136",
+"nom": "Remada ",
+"value": 9977 
+},
+{
+ "code": "TS3210",
+"nom": "Gafsa Nord  ",
+"value": 9407 
+},
+{
+ "code": "TS3211",
+"nom": "Sidi Aïch ",
+"value": 8297 
+},
+{
+ "code": "TS3212",
+"nom": "El Ksar ",
+"value": 32186 
+},
+{
+ "code": "TS3213",
+"nom": "Gafsa Sud ",
+"value": 90742 
+},
+{
+ "code": "TS3214",
+"nom": "Oum El Araies ",
+"value": 31733 
+},
+{
+ "code": "TS3215",
+"nom": "Redeyef ",
+"value": 27940 
+},
+{
+ "code": "TS3216",
+"nom": "Metlaoui ",
+"value": 38938 
+},
+{
+ "code": "TS3217",
+"nom": "Mdhila ",
+"value": 14841 
+},
+{
+ "code": "TS3218",
+"nom": "EL Guetar ",
+"value": 19942 
+},
+{
+ "code": "TS3219",
+"nom": "Belkhir ",
+"value": 15159 
+},
+{
+ "code": "TS321A",
+"nom": "Sned ",
+"value": 34524 
+},
+{
+ "code": "TS3220",
+"nom": "Tozeur  ",
+"value": 39862 
+},
+{
+ "code": "TS3221",
+"nom": "Degach ",
+"value": 26596 
+},
+{
+ "code": "TS3222",
+"nom": "Tameghza ",
+"value": 6362 
+},
+{
+ "code": "TS3223",
+"nom": "Nefta ",
+"value": 20544 
+},
+{
+ "code": "TS3224",
+"nom": "Hazoua ",
+"value": 4162 
+},
+{
+ "code": "TS3230",
+"nom": "Kebili Sud  ",
+"value": 28040 
+},
+{
+ "code": "TS3231",
+"nom": "Kebeli Nord ",
+"value": 29429 
+},
+{
+ "code": "TS3232",
+"nom": "Souk El Ahed ",
+"value": 26732 
+},
+{
+ "code": "TS3233",
+"nom": "Douz Nord ",
+"value": 25534 
+},
+{
+ "code": "TS3234",
+"nom": "Douz Sud ",
+"value": 17187 
+},
+{
+ "code": "TS3235",
+"nom": "Faouar ",
+"value": 16296 
+} 
+]

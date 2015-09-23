@@ -276,8 +276,8 @@ createParams <- function(output, mydfmetadata,
 
 
 # input and output folders
-input <- "input_idf"
-output <- "resources_idf"
+input <- "input_tun"
+output <- "resources_tun"
 
 createFolders(output = output)
 
@@ -285,8 +285,6 @@ myspdf <- importData(input = input)
 
 mydfmetadata <- importMetaData(input = input)
 
-carmat <- importMatrix(matrixname = "matmin.csv", input = input,
-                       myspdf = myspdf)
 
 mymat <- CreateDistMatrix(knownpts = myspdf, unknownpts = myspdf,
                           longlat = FALSE, bypassctrl = FALSE)
@@ -298,24 +296,16 @@ exportNomenclatureAndMap(output = output, myspdf = myspdf)
 computeVal(indParams = mydfmetadata, myspdf = myspdf, mymat = mymat,
            dmode = "AsTheCrowFlies",
            aParams = c(0.005, 0.01, 0.05),
-           pParams =  c(0,2500,5000,7500,10000),
-           seqSpans = c(0, seq(2500, 50000, 2500)))
-computeVal(indParams = mydfmetadata, myspdf = myspdf,
-           mymat = carmat,
-           dmode = "AsTheCowRolls",
-           aParams = c(0.005, 0.01, 0.05),
-           pParams =  c(0,5,10,15,20),
-           seqSpans = c(0, seq(5, 90, 5)))
+           pParams =  c(0,10000,20000,50000),
+           seqSpans = c(0, seq(10000, 200000, 10000)))
 
 x1 <- list(dmode = "AsTheCrowFlies", label = "Euclidean Distance",
-           pParams =  c(0,2500,5000,7500,10000), order = 1,
+           pParams =  c(0,10000,20000,50000), 
+           order = 1,
            units = "meters")
-x2 <- list(dmode = "AsTheCowRolls", label = "Car Time",
-           pParams =  c(0,5,10,15,20), order = 2,
-           units = "minutes")
 
 createParams(output = output, mydfmetadata = mydfmetadata,
              aParams = c(0.005, 0.01, 0.05),
-             matlist = list(x1,x2))
+             matlist = list(x1))
 
 Sys.time()-t1
