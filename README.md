@@ -1,14 +1,3 @@
----
-title: "Sample Document"
-output:
-  html_document:
-    toc: true
-    theme: united
-  pdf_document:
-    toc: true
-    highlight: zenburn
----
-
 # Une plateforme de calcul et de visualisation d'indicateurs fonctionnels 
 **Compute and Display Functionnal Indicators**
 
@@ -74,3 +63,46 @@ en bloc tous les fichiers utilisés par l’application. L’interface du site, 
 eux générés dynamiquement via les langages usuels mis en œuvre dans le développement web (PHP,
 HTML5, CSS, JavaScript). Deux librairies JavaScript sont également utilisées : Highcharts et JQuery. Du
 fait de ces choix technique, l’application est portable, elle ne nécessite pas de base de données.
+
+
+
+
+# Instruction d'installation / Install 
+
+# input and output folders
+```{r}
+input <- "input_tun"
+output <- "resources_tun"
+
+createFolders(output = output)
+
+myspdf <- importData(input = input)
+
+mydfmetadata <- importMetaData(input = input)
+
+
+mymat <- CreateDistMatrix(knownpts = myspdf, unknownpts = myspdf,
+                          longlat = FALSE, bypassctrl = FALSE)
+
+createGraph(output = output, myspdf = myspdf)
+
+exportNomenclatureAndMap(output = output, myspdf = myspdf)
+
+computeVal(indParams = mydfmetadata, myspdf = myspdf, mymat = mymat,
+           dmode = "AsTheCrowFlies",
+           aParams = c(0.005, 0.01, 0.05),
+           pParams =  c(0,10000,20000,50000),
+           seqSpans = c(0, seq(10000, 200000, 10000)))
+
+x1 <- list(dmode = "AsTheCrowFlies", 
+           label = "Euclidean Distance",
+           pParams =  c(0,10000,20000,50000), 
+           order = 1,
+           units = "meters")
+
+createParams(output = output, mydfmetadata = mydfmetadata,
+             aParams = c(0.005, 0.01, 0.05),
+             matlist = list(x1))
+```
+
+
