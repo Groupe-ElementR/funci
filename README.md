@@ -1,3 +1,14 @@
+---
+title: "Sample Document"
+output:
+  html_document:
+    toc: true
+    theme: united
+  pdf_document:
+    toc: true
+    highlight: zenburn
+---
+
 # Une plateforme de calcul et de visualisation d'indicateurs fonctionnels 
 **Compute and Display Functionnal Indicators**
 

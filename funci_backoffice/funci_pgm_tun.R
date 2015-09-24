@@ -286,7 +286,6 @@ myspdf <- importData(input = input)
 mydfmetadata <- importMetaData(input = input)
 
 
-
 mymat <- CreateDistMatrix(knownpts = myspdf, unknownpts = myspdf,
                           longlat = FALSE, bypassctrl = FALSE)
 
@@ -300,7 +299,8 @@ computeVal(indParams = mydfmetadata, myspdf = myspdf, mymat = mymat,
            pParams =  c(0,10000,20000,50000),
            seqSpans = c(0, seq(10000, 200000, 10000)))
 
-x1 <- list(dmode = "AsTheCrowFlies", label = "Euclidean Distance",
+x1 <- list(dmode = "AsTheCrowFlies", 
+           label = "Euclidean Distance",
            pParams =  c(0,10000,20000,50000), 
            order = 1,
            units = "meters")
