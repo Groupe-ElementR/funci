@@ -1,5 +1,3 @@
-t1 <- Sys.time()
-
 ########### LIBRARY ############################################################
 library(SpatialPosition)
 library(RJSONIO)
@@ -88,10 +86,11 @@ exportNomenclatureAndMap <- function(output = output, myspdf = myspdf){
   # map/map.json
   myspdf@data <- myspdf@data[, 1:2]
   names(myspdf@data) <- c("id", "n")
-  rgdal::writeOGR(obj = myspdf,
-                  dsn = file.path(output, "map/map.json"), 
-                  layer = "dataMap",check_exists = FALSE,
-                  driver = "GeoJSON")
+  if (file.exists(file.path(output, "map/map.json")) == F){
+    rgdal::writeOGR(obj = myspdf,
+                    dsn = file.path(output, "map/map.json"), 
+                    layer = "dataMap",check_exists = FALSE,
+                    driver = "GeoJSON")}
 }
 
 ######## CREATION FICHIER POUR LES GRAPHS ######################################
@@ -273,50 +272,3 @@ createParams <- function(output, mydfmetadata,
   # Export
   write(json,file.path(output,"json","params.json"))
 }
-
-
-# input and output folders
-input <- "input_mtq"
-output <- "resources_mtq"
-
-createFolders(output = output)
-
-myspdf <- importData(input = input)
-
-mydfmetadata <- importMetaData(input = input)
-
-# carmat <- importMatrix(matrixname = "matmin.csv", input = input,
-#                        myspdf = myspdf)
-
-mymat <- CreateDistMatrix(knownpts = myspdf, unknownpts = myspdf,
-                          longlat = FALSE, bypassctrl = FALSE)
-
-createGraph(output = output, myspdf = myspdf)
-
-exportNomenclatureAndMap(output = output, myspdf = myspdf)
-
-computeVal(indParams = mydfmetadata, myspdf = myspdf, mymat = mymat,
-           dmode = "AsTheCrowFlies",
-           aParams = c(0.02, 0.1, 0.5),
-           pParams =  c(0,2000,5000,10000),
-           seqSpans = c(0, seq(1000, 50000, 1000)))
-# computeVal(indParams = mydfmetadata, myspdf = myspdf,
-#            mymat = carmat,
-#            dmode = "AsTheCowRolls",
-#            aParams = c(0.005, 0.01, 0.05),
-#            pParams =  c(0,5,10,15,20),
-#            seqSpans = c(0, seq(5, 90, 5)))
-
-x1 <- list(dmode = "AsTheCrowFlies", label = "Euclidean Distance",
-           pParams =  c(0,1000,2000,5000), order = 1,
-           units = "meters")
-
-# x2 <- list(dmode = "AsTheCowRolls", label = "Car Time",
-#            pParams =  c(0,5,10,15,20), order = 2,
-#            units = "minutes")
-
-createParams(output = output, mydfmetadata = mydfmetadata,
-             aParams = c(0.02, 0.1, 0.5),
-             matlist = list(x1))
-
-cat(Sys.time()-t1)

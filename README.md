@@ -1,5 +1,8 @@
 # Une plateforme de calcul et de visualisation d'indicateurs fonctionnels 
-**Compute and Display Functionnal Indicators**
+_**Compute and Display Functionnal Indicators**_
+
+
+**Démo de l'application [ICI](http://www.ums-riate.fr/funci/)**
 
 
 ## Objectif de l'application  
@@ -67,42 +70,90 @@ fait de ces choix technique, l’application est portable, elle ne nécessite pa
 
 
 
-# Instruction d'installation / Install 
+## Instruction d'installation 
 
-# input and output folders
+### Préparation des données  
+Les données en entrée doivent être correctement structurées et formatées.   
+
+Un dossier **input** doit être construit de la manière suivante :  
+![figure2](img/fig2.png)   
+Le dossier dataset doit contenir un fichier **data.csv** contenant les données et un dossier **metadata.csv** décrivant ces données.   
+
+Le fichier **data.csv** doit être construit de la manière suivante :  
+![figure3](img/fig3.png)   
+C'est à dire un champs "ID", un champs "NAMES" suivit des variables de stock à transformer.   
+
+Le fichier **metadata.csv** doit être construit de la manière suivante :  
+![figure4](img/fig4.png)   
+L'identifiant des champs doit être le même que dans le fichier **data.csv**.  
+
+Le dossier **map** doit contenir un shapefile de polygones correspondant aux régions du fichier **data.csv**. L'identifiant et unique champs de la table attributaire du shapefile doit être nommé "ID".  
+
+Il est possible d'importer des mesures de distances entre régions. Il faut placer ces fichiers dans le dossier **matrix**.  
+
+
+### Dans R...
+
+- Sourcer les fonctions R
 ```{r}
-input <- "input_tun"
-output <- "resources_tun"
+source("/funci_pgm.R")
+```
 
+- Choisir les dossier d'import et d'export  
+```{r}
+input <- "input_idf"
+output <- "output_idf"
+```
+- Créer les répertoires de sortie  
+```{r}
 createFolders(output = output)
-
+```
+- Import des données de stocks et des metadonnées  
+```{r}
 myspdf <- importData(input = input)
-
 mydfmetadata <- importMetaData(input = input)
-
-
+```
+- Création d'une matrice de distances euclidiennes entre les régions  
+```{r}
 mymat <- CreateDistMatrix(knownpts = myspdf, unknownpts = myspdf,
                           longlat = FALSE, bypassctrl = FALSE)
-
+```
+- Création des fichiers nécessaire à la conception des graphiques interactifs  
+```{r}
 createGraph(output = output, myspdf = myspdf)
-
+```
+- Export de la nomenclature des unités et du fond de carte  
+```{r}
 exportNomenclatureAndMap(output = output, myspdf = myspdf)
-
+```
+- Calcul des indicateurs fonctionnels  
+Cette étape est importante, c'est ici que l'on définit les paramètres des indicateurs fonctionnels calculés.  
+aParams concerne les mesures d'accessibilité et pParams ceux de potentiels.
+```{r}
 computeVal(indParams = mydfmetadata, myspdf = myspdf, mymat = mymat,
            dmode = "AsTheCrowFlies",
            aParams = c(0.005, 0.01, 0.05),
-           pParams =  c(0,10000,20000,50000),
-           seqSpans = c(0, seq(10000, 200000, 10000)))
-
-x1 <- list(dmode = "AsTheCrowFlies", 
-           label = "Euclidean Distance",
-           pParams =  c(0,10000,20000,50000), 
-           order = 1,
+           pParams =  c(0,2500,5000,7500,10000),
+           seqSpans = c(0, seq(2500, 50000, 2500)))
+```
+- Création du fichier de paramètre
+```{r}
+x1 <- list(dmode = "AsTheCrowFlies", label = "Euclidean Distance",
+           pParams =  c(0,2500,5000,7500,10000), order = 1,
            units = "meters")
-
 createParams(output = output, mydfmetadata = mydfmetadata,
              aParams = c(0.005, 0.01, 0.05),
              matlist = list(x1))
 ```
 
+
+### Déployer l'application
+A la suite de ces opérations le dossier **output_idf** doit être renomé **resources** et placé dans le dossier **funci_app**.   
+Le dossier **funci_app** doit être mis sur un serveur et l'application est disponible!
+
+## Licence & Avertissement
+Func-i est un logiciel libre livré sans AUCUNE GARANTIE.  
+Vous pouvez le redistribuer sous certaines conditions.  
+Ce logiciel est sous licence GNU General Public License, version 2 ou 3.   
+Le fichier LICENSE explicite les termes de la licence. 
 
