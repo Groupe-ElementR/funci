@@ -148,7 +148,7 @@ createParams(output = output, mydfmetadata = mydfmetadata,
 
 
 ### Déployer l'application
-A la suite de ces opérations le dossier **output_idf** doit être renomé **resources** et placé dans le dossier **funci_app**.   
+A la suite de ces opérations le dossier **output_idf** doit être renommé **resources** et placé dans le dossier **funci_app**.   
 Le dossier **funci_app** doit être mis sur un serveur et l'application est disponible!
 
 ## Licence & Avertissement
